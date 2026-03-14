@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "name": "AI, Automation & Machine Authority Vocabulary",
+    "version": "0.1.0",
+    "source": "Ted Hand taxonomy + PKD corpus analysis",
+    "topic_family": "ai_automation"
+  },
+  "machine_role_categories": [
+    {
+      "id": "economic_gatekeeper",
+      "label": "Economic Gatekeeper",
+      "description": "Machines that enforce payment, property rights, or market logic",
+      "examples": ["coin-operated door (Ubik)", "autonomous salesman (Sales Pitch)", "autofac network"]
+    },
+    {
+      "id": "diagnostic_authority",
+      "label": "Diagnostic Authority",
+      "description": "Machines that judge humanity or mental state",
+      "examples": ["Voigt-Kampff test", "Electric Ant perception tape", "Variable Man computer"]
+    },
+    {
+      "id": "psychological_regulator",
+      "label": "Psychological Regulator",
+      "description": "Machines diagnosing, treating, or normalizing behavior",
+      "examples": ["robot psychiatrists", "empathy testing", "behavioral monitoring"]
+    },
+    {
+      "id": "predictive_bureaucracy",
+      "label": "Predictive Bureaucrat",
+      "description": "Machines acting as officials, inspectors, or administrators via prediction",
+      "examples": ["Minority Report precogs", "Paycheck corporate machine", "war prediction computers"]
+    },
+    {
+      "id": "reality_infrastructure",
+      "label": "Artificial Reality Infrastructure",
+      "description": "Machines sustaining simulated or unstable worlds",
+      "examples": ["Ubik half-life", "Palmer Eldritch drug worlds", "Maze of Death simulation"]
+    },
+    {
+      "id": "production_automation",
+      "label": "Autonomous Production System",
+      "description": "Self-perpetuating factories and production systems",
+      "examples": ["Autofac network", "self-replicating weapons (Second Variety)"]
+    },
+    {
+      "id": "machine_sovereign",
+      "label": "Machine Sovereign",
+      "description": "AI that rules or demands worship",
+      "examples": ["The Great C", "Defenders robots"]
+    },
+    {
+      "id": "surveillance_apparatus",
+      "label": "Surveillance Apparatus",
+      "description": "Monitoring, tracking, and compliance enforcement systems",
+      "examples": ["identity verification", "behavior tracking", "compliance monitoring"]
+    }
+  ],
+  "human_response_categories": [
+    {"id": "compliance", "label": "Compliance"},
+    {"id": "circumvention", "label": "System Exploitation / Circumvention"},
+    {"id": "sabotage", "label": "Technological Sabotage"},
+    {"id": "identity_manipulation", "label": "Identity Deception"},
+    {"id": "black_market", "label": "Black Market Workaround"},
+    {"id": "philosophical_revelation", "label": "Philosophical Revelation"}
+  ],
+  "controlled_vocabulary": {
+    "artificial_intelligence": [
+      "android", "synthetic human", "electric lifeform", "artificial organism",
+      "programmed being", "replicant", "simulacrum", "mechanical brain",
+      "thinking machine", "logic unit", "decision engine", "self-directing computer",
+      "autonomous system", "machine cognition", "machine consciousness",
+      "artificial empathy", "synthetic perception", "machine judgment",
+      "behavioral algorithm", "control logic"
+    ],
+    "automation_and_labor": [
+      "automatic factory", "autofac system", "production automaton", "robot laborer",
+      "mechanical worker", "industrial AI", "automated assembly", "post-human labor",
+      "self-maintaining infrastructure", "machine production cycle",
+      "robot maintenance system", "factory intelligence", "self-optimizing industry",
+      "machine logistics", "autonomous supply chain"
+    ],
+    "economic_systems": [
+      "coin-operated infrastructure", "paywall mechanism", "automated billing",
+      "machine rent system", "corporate automation", "consumer simulation",
+      "commodity hallucination", "commercialized experience", "advertising intelligence",
+      "economic control interface", "algorithmic pricing", "machine contract enforcement",
+      "corporate AI governance", "industrial rationalization", "production planning machine"
+    ],
+    "psychological_regulation": [
+      "empathy testing", "behavioral diagnostics", "cognitive evaluation machine",
+      "psychiatric algorithm", "machine therapy system", "emotional compliance test",
+      "mental stability monitor", "psychological audit", "neural analysis device",
+      "machine interpretation of feeling", "emotion detection apparatus"
+    ],
+    "reality_instability": [
+      "false reality", "spurious reality", "synthetic environment",
+      "manufactured perception", "simulated world", "programmed reality layer",
+      "hallucinatory infrastructure", "artificial timeline", "memory manipulation system",
+      "ontological instability", "constructed universe", "controlled perception system",
+      "simulation environment", "reality maintenance system"
+    ],
+    "surveillance_and_control": [
+      "monitoring automaton", "surveillance AI", "behavior tracking machine",
+      "predictive policing computer", "future prediction system", "machine inspection unit",
+      "compliance monitor", "system authority interface", "technological tribunal",
+      "machine legal authority"
+    ],
+    "cybernetics_general": [
+      "feedback system", "cybernetic regulation", "closed system control",
+      "system maintenance AI", "machine hierarchy", "command protocol",
+      "control matrix", "machine-regulated society", "technocratic governance",
+      "computational order"
+    ]
+  },
+  "narrative_structure": {
+    "turnstile_motif": [
+      "A system governs society",
+      "Machines enforce the rules of that system",
+      "Humans believe the system is rational or inevitable",
+      "A character attempts to bypass or hack it",
+      "The system's artificial nature becomes visible"
+    ]
+  }
+}
