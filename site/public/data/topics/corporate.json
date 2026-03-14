@@ -1,0 +1,122 @@
+{
+  "topic_id": "PKD-AIT-CORPORATE",
+  "canonical_name": "corporate",
+  "slug": "corporate",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "economic_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 7,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "significant",
+      "match_count": 7
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0180",
+      "match_type": "exact_text",
+      "matched_text": "corporate",
+      "context_window": " Mortal Mother (myself) and Deity\n(God as Father). Tessa points out it's a corporate body, like yogurt (in the\ndream, the renewing fish that's sliced...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 180",
+      "segment_type": "page",
+      "position": 180,
+      "page_start": 180,
+      "page_end": 180,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0182",
+      "match_type": "exact_text",
+      "matched_text": "corporate",
+      "context_window": "swing of oscillation, and these forces were a corporate body or entity which\nwas alive and which had intention, as I have; we...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 182",
+      "segment_type": "page",
+      "position": 182,
+      "page_start": 182,
+      "page_end": 182,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0222",
+      "match_type": "exact_text",
+      "matched_text": "corporate",
+      "context_window": "... in contrast to the ear of corn in which all grains are together in corporate\nlife; it was an ear of corn that was held up at Elysius, to demonstrate...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 222",
+      "segment_type": "page",
+      "position": 222,
+      "page_start": 222,
+      "page_end": 222,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0276",
+      "match_type": "exact_text",
+      "matched_text": "corporate",
+      "context_window": "... different groups for postmortem assigning\ninto a totality of a hive-like corporate system. It takes great pains to occlude\nus perceptually, evidently not...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 276",
+      "segment_type": "page",
+      "position": 276,
+      "page_start": 276,
+      "page_end": 276,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0418",
+      "match_type": "exact_text",
+      "matched_text": "corporate",
+      "context_window": " became a trans-spatial, -temporal, -identity entity,\ndiscorporate or poly-corporate, as the need arose. Through him the properly\nfunctioning (living and...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 418",
+      "segment_type": "page",
+      "position": 418,
+      "page_start": 418,
+      "page_end": 418,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0922",
+      "match_type": "exact_text",
+      "matched_text": "corporate",
+      "context_window": "... of Jewish\nKabbala.\n30. The exhibit was \"Adventure Thru Inner Space,\" a corporate-sponsored\nattraction that ran in Tomorrowland until 1985.\n",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 922",
+      "segment_type": "page",
+      "position": 922,
+      "page_start": 922,
+      "page_end": 922,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0947",
+      "match_type": "exact_text",
+      "matched_text": "corporate",
+      "context_window": " novel VALIS (1981).\nUbik: Dick's 1969 novel concerns a team of telepathic corporate spies injured\nin an explosion, who find themselves in a world that is...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 947",
+      "segment_type": "page",
+      "position": 947,
+      "page_start": 947,
+      "page_end": 947,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

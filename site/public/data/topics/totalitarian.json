@@ -1,0 +1,88 @@
+{
+  "topic_id": "PKD-AIT-TOTALITARIAN",
+  "canonical_name": "totalitarian",
+  "slug": "totalitarian",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "political_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 4,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1972-ANDROHUM",
+      "title": "The Android and the Human",
+      "slug": "the-android-and-the-human",
+      "year_published": 1972,
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 2
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0010",
+      "match_type": "exact_text",
+      "matched_text": "totalitarian",
+      "context_window": "... \u00a0not\t\r \u00a0the\t\r \u00a0flatus\t\r \u00a0voci\t\r \u00a0dinning\t\r \u00a0from\t\r \u00a0it.\t\r \u00a0\nThe\t\r \u00a0totalitarian\t\r \u00a0society\t\r \u00a0envisioned\t\r \u00a0by\t\r \u00a0George\t\r \u00a0Orwell\t\r \u00a0in\t\r \u00a01984\t\r...",
+      "seg_title": "The Android and the Human \u2014 Page 10",
+      "segment_type": "page",
+      "position": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "work_title": "The Android and the Human",
+      "work_slug": "the-android-and-the-human",
+      "work_id": "PKD-WRK-1972-ANDROHUM"
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0012",
+      "match_type": "exact_text",
+      "matched_text": "totalitarian",
+      "context_window": "... \u00a0fiction\t\r \u00a0terms,\t\r \u00a0I\t\r \u00a0now\t\r \u00a0foresee\t\r \u00a0an\t\r \u00a0anarchistic\t\r \u00a0totalitarian\t\r \u00a0\nstate\t\r \u00a0ahead.\t\r \u00a0Ten\t\r \u00a0years\t\r \u00a0from\t\r \u00a0now\t\r \u00a0a\t\r \u00a0TV\t\r \u00a0street\t\r...",
+      "seg_title": "The Android and the Human \u2014 Page 12",
+      "segment_type": "page",
+      "position": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "work_title": "The Android and the Human",
+      "work_slug": "the-android-and-the-human",
+      "work_id": "PKD-WRK-1972-ANDROHUM"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0393",
+      "match_type": "exact_text",
+      "matched_text": "totalitarian",
+      "context_window": "... binds it into the other (next or\nhigher). Despite its secular enemy, the totalitarian state, it is destined\nhistorically to prevail (come into full...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 393",
+      "segment_type": "page",
+      "position": 393,
+      "page_start": 393,
+      "page_end": 393,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0863",
+      "match_type": "exact_text",
+      "matched_text": "Totalitarian",
+      "context_window": " get away\nwith it due to her political position (like a party commission).\nTotalitarian society: one party; mixture of CP and NSDAP. But she is,\nafter all, a...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 863",
+      "segment_type": "page",
+      "position": 863,
+      "page_start": 863,
+      "page_end": 863,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "topic_id": "PKD-AIT-ADVERTISING",
+  "canonical_name": "advertising",
+  "slug": "advertising",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "economic_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 2,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1965-5NOVELS",
+      "title": "Five Great Novels (incl. Three Stigmata)",
+      "slug": "five-great-novels-incl-three-stigmata",
+      "year_published": 1965,
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0140",
+      "match_type": "exact_text",
+      "matched_text": "advertising",
+      "context_window": "... the statute violation cited on this?\" Fred said.\n\"Misrepresentation in advertising,\" one of the other scramble\nsuits said, and both laughed and returned to...",
+      "seg_title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 140",
+      "segment_type": "page",
+      "position": 140,
+      "page_start": 140,
+      "page_end": 140,
+      "work_title": "Five Great Novels (incl. Three Stigmata)",
+      "work_slug": "five-great-novels-incl-three-stigmata",
+      "work_id": "PKD-WRK-1965-5NOVELS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P1054",
+      "match_type": "exact_text",
+      "matched_text": "advertising",
+      "context_window": "... takes a visual form that is equal parts Dick's\nimagination and Scott's advertising background in London. In a way that, of\nall people, Dick might...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 1054",
+      "segment_type": "page",
+      "position": 1054,
+      "page_start": 1054,
+      "page_end": 1054,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

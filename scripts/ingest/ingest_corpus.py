@@ -5,23 +5,25 @@ Scans corpus/ directory for PDFs, extracts text with PyMuPDF,
 assigns stable work IDs, stores metadata and raw text.
 
 Inputs:  corpus/ directory with PDFs organized by source lane
-         corpus/lane_a/  — primary fiction, Exegesis, interviews
-         corpus/lane_b/  — contextual psychology sources
-         corpus/lane_c/  — secondary scholarship
+         corpus/lane_a/fiction/   — novels, short stories
+         corpus/lane_a/essays/    — PKD essays, speeches
+         corpus/lane_a/exegesis/  — Exegesis volumes
+         corpus/lane_b/           — contextual psychology sources
+         corpus/lane_c/           — secondary scholarship
 
-Outputs: Populated works and segments tables
+Outputs: Populated works table + segments table (one segment per page)
 
 Deterministic: Yes (no LLM)
 Libraries: PyMuPDF (fitz), pathlib
 """
 
+import re
 import sqlite3
 from pathlib import Path
 
 
 def slugify(name: str) -> str:
     """Convert a name to a URL-safe slug."""
-    import re
     slug = name.lower().strip()
     slug = re.sub(r'[^\w\s-]', '', slug)
     slug = re.sub(r'[\s_]+', '-', slug)
@@ -29,17 +31,65 @@ def slugify(name: str) -> str:
     return slug.strip('-')
 
 
-def make_work_id(filename: str, lane: str) -> str:
+# Map known filenames to clean titles and mnemonics
+KNOWN_WORKS = {
+    "book_pkd_ubik": ("Ubik", "UBIK", "novel", 1969),
+    "the_valis_trilogy": ("The VALIS Trilogy", "VALISTRI", "novel", 1981),
+    "five_great_novels": ("Five Great Novels (incl. Three Stigmata)", "5NOVELS", "novel", 1965),
+    "the_exegesis_of_philip_k_dick": ("The Exegesis of Philip K. Dick", "EXEGESIS", "exegesis", 1974),
+    "the_android_and_the_human": ("The Android and the Human", "ANDROHUM", "essay", 1972),
+    "how_to_build_a_universe": ("How to Build a Universe That Doesn't Fall Apart Two Days Later", "BUILDUNIVERSE", "essay", 1978),
+    "cosmogony_and_cosmology": ("Cosmogony and Cosmology", "COSMCOSM", "essay", 1978),
+    "schizophrenia_and_the_book_of_changes": ("Schizophrenia and the Book of Changes", "SCHIZBOC", "essay", 1965),
+}
+
+
+def lookup_work(filename: str) -> tuple[str, str, str, int | None]:
+    """Look up known work metadata. Returns (title, mnemonic, work_type, year)."""
+    slug = slugify(Path(filename).stem)
+    # Remove common prefixes
+    clean = slug.replace("oceanofpdfcom-", "oceanofpdfcom_")
+    clean = re.sub(r'^_+', '', clean)
+
+    normalized = clean.replace("-", "_")
+    for key, (title, mnemonic, work_type, year) in KNOWN_WORKS.items():
+        if key in normalized:
+            return title, mnemonic, work_type, year
+
+    # Fallback
+    mnemonic = slugify(Path(filename).stem).upper().replace("-", "")[:8]
+    return Path(filename).stem, mnemonic, "unknown", None
+
+
+def infer_work_type(pdf_path: Path) -> str:
+    """Infer work type from subdirectory name."""
+    parts = pdf_path.parts
+    for part in parts:
+        if part == "fiction":
+            return "novel"
+        elif part == "essays":
+            return "essay"
+        elif part == "exegesis":
+            return "exegesis"
+        elif part == "criticism":
+            return "criticism"
+        elif part == "psychology":
+            return "psychology_source"
+    return "unknown"
+
+
+def make_work_id(mnemonic: str, lane: str, year: int | None = None) -> str:
     """Generate stable work ID following pkd-archive namespace.
-    Format: PKD-{TYPE}-{YYYY}-{MNEMONIC}
+    Format: PKD-{TYPE}-{YYYY}-{MNEMONIC} or PKD-{TYPE}-{MNEMONIC} if no year.
     """
     type_code = {"A": "WRK", "B": "CTX", "C": "SRC"}[lane]
-    mnemonic = slugify(Path(filename).stem).upper().replace("-", "")[:8]
+    if year:
+        return f"PKD-{type_code}-{year}-{mnemonic}"
     return f"PKD-{type_code}-{mnemonic}"
 
 
-def extract_text(pdf_path: Path) -> tuple[str, int]:
-    """Extract text from PDF using PyMuPDF. Returns (text, page_count)."""
+def extract_text(pdf_path: Path) -> tuple[list[str], int]:
+    """Extract text from PDF using PyMuPDF. Returns (page_texts, page_count)."""
     try:
         import fitz
         doc = fitz.open(str(pdf_path))
@@ -47,10 +97,10 @@ def extract_text(pdf_path: Path) -> tuple[str, int]:
         for page in doc:
             pages.append(page.get_text())
         doc.close()
-        return "\n\n".join(pages), len(pages)
+        return pages, len(pages)
     except Exception as e:
         print(f"  [warn] Failed to extract {pdf_path.name}: {e}")
-        return "", 0
+        return [], 0
 
 
 def run(conn: sqlite3.Connection, corpus_dir: Path):
@@ -68,6 +118,7 @@ def run(conn: sqlite3.Connection, corpus_dir: Path):
 
     processed = 0
     created = 0
+    total_pages = 0
 
     for lane_dir, lane_code in lane_map.items():
         lane_path = corpus_dir / lane_dir
@@ -75,7 +126,12 @@ def run(conn: sqlite3.Connection, corpus_dir: Path):
             continue
 
         for pdf_path in sorted(lane_path.glob("**/*.pdf")):
-            work_id = make_work_id(pdf_path.stem, lane_code)
+            title, mnemonic, work_type, year = lookup_work(pdf_path.name)
+            work_id = make_work_id(mnemonic, lane_code, year)
+
+            # Use subdirectory to override work_type if lookup returned unknown
+            if work_type == "unknown":
+                work_type = infer_work_type(pdf_path)
 
             # Check if already ingested
             existing = conn.execute(
@@ -86,19 +142,38 @@ def run(conn: sqlite3.Connection, corpus_dir: Path):
                 processed += 1
                 continue
 
-            text, page_count = extract_text(pdf_path)
-            status = "extracted" if text else "ocr_needed"
+            pages, page_count = extract_text(pdf_path)
+            full_text = "\n\n".join(pages)
+            status = "extracted" if full_text.strip() else "ocr_needed"
+            word_count = len(full_text.split()) if full_text else 0
 
+            # Insert work
             conn.execute(
                 "INSERT INTO works (work_id, title, slug, work_type, source_lane, "
-                "file_path, page_count, extraction_status) "
-                "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
-                (work_id, pdf_path.stem, slugify(pdf_path.stem),
-                 "unknown", lane_code, str(pdf_path), page_count, status)
+                "author, year_published, file_path, page_count, extraction_status, notes) "
+                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                (work_id, title, slugify(title), work_type, lane_code,
+                 "Philip K. Dick", year, str(pdf_path), page_count, status,
+                 f"Words: {word_count:,}")
             )
+
+            # Insert one segment per page (raw chunking — Stage 1 will refine)
+            for i, page_text in enumerate(pages):
+                if not page_text.strip():
+                    continue
+                seg_id = f"PKD-SEG-{mnemonic}-P{i+1:04d}"
+                conn.execute(
+                    "INSERT INTO segments (seg_id, work_id, title, segment_type, "
+                    "position, page_start, page_end, raw_text, word_count) "
+                    "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                    (seg_id, work_id, f"{title} — Page {i+1}", "page",
+                     i+1, i+1, i+1, page_text, len(page_text.split()))
+                )
+
             created += 1
             processed += 1
-            print(f"  [{lane_code}] {pdf_path.stem} → {work_id} ({page_count} pages, {status})")
+            total_pages += page_count
+            print(f"  [{lane_code}] {title} → {work_id} ({page_count} pages, {word_count:,} words, {status})")
 
     conn.commit()
-    print(f"  [corpus] Processed {processed}, created {created}")
+    print(f"  [corpus] Processed {processed}, created {created}, total pages: {total_pages}")

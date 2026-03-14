@@ -1,0 +1,52 @@
+{
+  "topic_id": "PKD-AIT-SIMULACRUM",
+  "canonical_name": "simulacrum",
+  "slug": "simulacrum",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "artificial_intelligence",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 2,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "year_published": 1978,
+      "relevance": "mentioned",
+      "match_count": 2
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0003",
+      "match_type": "exact_text",
+      "matched_text": "Simulacrum",
+      "context_window": "... ones. Disneyland is an evolving organism. For years they had the Lincoln Simulacrum,\nlike Lincoln himself, was only a temporary form which matter and energy...",
+      "seg_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 3",
+      "segment_type": "page",
+      "position": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "work_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "work_slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE"
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0004",
+      "match_type": "exact_text",
+      "matched_text": "Simulacrum",
+      "context_window": "... large\nversion of Disneyland. You can have the Pirate Ride or the Lincoln Simulacrum or Mr. Toad's Wild\nRide\u00b2you can have all of them, but none is true.\nIn my...",
+      "seg_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 4",
+      "segment_type": "page",
+      "position": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "work_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "work_slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE"
+    }
+  ]
+}

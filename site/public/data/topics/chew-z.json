@@ -1,0 +1,66 @@
+{
+  "topic_id": "PKD-MET-CHEWZ",
+  "canonical_name": "Chew-Z",
+  "slug": "chew-z",
+  "topic_family": "metaphysics",
+  "topic_subfamily": "altered_states",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 3,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 3
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0302",
+      "match_type": "exact_text",
+      "matched_text": "Chew-Z",
+      "context_window": "... in Stigmata. Is theolepsy not specifically what Stigmata\ndepicts? With Chew-Z or whatever, Can-D, I forget, the eucharist.22 What do\nyou get if, as Le...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 302",
+      "segment_type": "page",
+      "position": 302,
+      "page_start": 302,
+      "page_end": 302,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0390",
+      "match_type": "exact_text",
+      "matched_text": "Chew-Z",
+      "context_window": "... how this resembles the\nreplication of Palmer Eldritch through eating Chew-Z.\n \n[38:61] What is hard for us to grasp is how a single bit (like...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 390",
+      "segment_type": "page",
+      "position": 390,
+      "page_start": 390,
+      "page_end": 390,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0945",
+      "match_type": "exact_text",
+      "matched_text": "Chew-Z",
+      "context_window": "... Palmer Eldritch, who returns from the Proxima system\nwith the drug Chew-Z; when ingested, it transports the user into another\nreality where...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 945",
+      "segment_type": "page",
+      "position": 945,
+      "page_start": 945,
+      "page_end": 945,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

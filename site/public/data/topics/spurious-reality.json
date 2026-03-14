@@ -1,0 +1,138 @@
+{
+  "topic_id": "PKD-AIT-SPURIOUSREAL",
+  "canonical_name": "spurious reality",
+  "slug": "spurious-reality",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "reality_instability",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 7,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "year_published": 1978,
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "work_id": "PKD-WRK-1978-COSMCOSM",
+      "title": "Cosmogony and Cosmology",
+      "slug": "cosmogony-and-cosmology",
+      "year_published": 1978,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0372",
+      "match_type": "exact_text",
+      "matched_text": "spurious reality",
+      "context_window": "... If the above theory is wrong (and there is no negative hallucination\nand spurious reality laid over the real world\u2014which is quite different than\nwhat seems to be\u2014)...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 372",
+      "segment_type": "page",
+      "position": 372,
+      "page_start": 372,
+      "page_end": 372,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0397",
+      "match_type": "exact_text",
+      "matched_text": "spurious reality",
+      "context_window": "... time to figure out that what it is is that a brain\nexists, feeding us a spurious reality which it grows and develops, and we're\ncells in it subliminally governed...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 397",
+      "segment_type": "page",
+      "position": 397,
+      "page_start": 397,
+      "page_end": 397,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0457",
+      "match_type": "exact_text",
+      "matched_text": "spurious reality",
+      "context_window": "Folder 22\nOCTOBER\u2013NOVEMBER 1978\n[22:1] We are being fed a spurious reality. Only in rare cases are people\n\"doomed\" to be saved\u2014i.e., to experience...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 457",
+      "segment_type": "page",
+      "position": 457,
+      "page_start": 457,
+      "page_end": 457,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0487",
+      "match_type": "exact_text",
+      "matched_text": "spurious reality",
+      "context_window": "... on the one-way \"eerie manifesta tion\" basis which Lem\ndepicts. It is a spurious reality and their technology generates it, and although\nthey aid and inform us...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 487",
+      "segment_type": "page",
+      "position": 487,
+      "page_start": 487,
+      "page_end": 487,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0770",
+      "match_type": "exact_text",
+      "matched_text": "spurious reality",
+      "context_window": "... my\ndream of the 15 minute taped warning-reminders while I (sic) am in a\nspurious reality that I myself generate.\n(This even brings in \"Tat tvam asi.\")\nWow. Now...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 770",
+      "segment_type": "page",
+      "position": 770,
+      "page_start": 770,
+      "page_end": 770,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0005",
+      "match_type": "exact_text",
+      "matched_text": "spurious reality",
+      "context_window": "... And\nfalsified. We have participated unknowingly in the creation of a spurious reality, and then we have\nobligingly fed it to ourselves. We have colluded in our...",
+      "seg_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 5",
+      "segment_type": "page",
+      "position": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "work_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "work_slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE"
+    },
+    {
+      "seg_id": "PKD-SEG-COSMCOSM-P0008",
+      "match_type": "exact_text",
+      "matched_text": "spurious reality",
+      "context_window": "... without\nrealizing it, have the option of denying the existence of the spurious reality, although they must\nthen take the consequences for what remains, if...",
+      "seg_title": "Cosmogony and Cosmology \u2014 Page 8",
+      "segment_type": "page",
+      "position": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "work_title": "Cosmogony and Cosmology",
+      "work_slug": "cosmogony-and-cosmology",
+      "work_id": "PKD-WRK-1978-COSMCOSM"
+    }
+  ]
+}

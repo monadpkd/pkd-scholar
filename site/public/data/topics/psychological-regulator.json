@@ -1,0 +1,27 @@
+{
+  "topic_id": "PKD-AIT-PSYCHOLOGICA",
+  "canonical_name": "Psychological Regulator",
+  "slug": "psychological-regulator",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "machine_role",
+  "definition": "Machines diagnosing, treating, or normalizing behavior",
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 0,
+  "aliases": [
+    {
+      "alias": "behavioral monitoring",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "empathy testing",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "robot psychiatrists",
+      "alias_type": "related_term"
+    }
+  ],
+  "matched_works": [],
+  "matched_segments": []
+}

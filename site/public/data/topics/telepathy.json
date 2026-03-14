@@ -1,0 +1,108 @@
+{
+  "topic_id": "PKD-MET-TELEPATHY",
+  "canonical_name": "telepathy",
+  "slug": "telepathy",
+  "topic_family": "metaphysics",
+  "topic_subfamily": "altered_states",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 6,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "significant",
+      "match_count": 6
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0167",
+      "match_type": "exact_text",
+      "matched_text": "telepathy",
+      "context_window": "... to t-p info transfer;\nsomeone like me who never normally got info by telepathy would experience\na unique and surprising transformation in time and not...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 167",
+      "segment_type": "page",
+      "position": 167,
+      "page_start": 167,
+      "page_end": 167,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0169",
+      "match_type": "exact_text",
+      "matched_text": "telepathy",
+      "context_window": "... an excellent illustration of that: Man\nproposes/God disposes. If indeed telepathy is the universal medium of\ninformation-exchange, then the Logos, if it...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 169",
+      "segment_type": "page",
+      "position": 169,
+      "page_start": 169,
+      "page_end": 169,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0883",
+      "match_type": "exact_text",
+      "matched_text": "telepathy",
+      "context_window": "... with Valis, the news about Chrissy's birth defect. I.e.,\nour media and telepathy combined, inner-outer. So there is no way to tell\nwhether the info arises...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 883",
+      "segment_type": "page",
+      "position": 883,
+      "page_start": 883,
+      "page_end": 883,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0885",
+      "match_type": "exact_text",
+      "matched_text": "telepathy",
+      "context_window": "... in\nEnglish, etc. The voice will occur directly in the person's mind by telepathy; it\nis explicit: by telepathy. This will provide that he is the Christ....",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 885",
+      "segment_type": "page",
+      "position": 885,
+      "page_start": 885,
+      "page_end": 885,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P1006",
+      "match_type": "exact_text",
+      "matched_text": "telepathy",
+      "context_window": " the Cambridge classicist Frederic Myers, who saw psychical\nabilities like telepathy (a word that he coined) as \"supernormal\" expressions\nof our \"extraterrene...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 1006",
+      "segment_type": "page",
+      "position": 1006,
+      "page_start": 1006,
+      "page_end": 1006,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P1015",
+      "match_type": "exact_text",
+      "matched_text": "telepathy",
+      "context_window": "... the family-run\nandroid business in We Can Build You, or the anti-telepathy Prudence\nOrganizations in Ubik, Dick's fiction constantly recasts his...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 1015",
+      "segment_type": "page",
+      "position": 1015,
+      "page_start": 1015,
+      "page_end": 1015,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

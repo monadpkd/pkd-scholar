@@ -1,0 +1,38 @@
+{
+  "topic_id": "PKD-AIT-FEEDBACKSYST",
+  "canonical_name": "feedback system",
+  "slug": "feedback-system",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "cybernetics_general",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 1,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0076",
+      "match_type": "exact_text",
+      "matched_text": "feedback system",
+      "context_window": "... are from the Pauline Texts, but couldn't prove it before.\nThis is all a feedback system, where I'm given information I couldn't\npossibly have on my own; best of...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 76",
+      "segment_type": "page",
+      "position": 76,
+      "page_start": 76,
+      "page_end": 76,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

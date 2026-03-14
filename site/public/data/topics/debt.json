@@ -1,0 +1,74 @@
+{
+  "topic_id": "PKD-AIT-DEBT",
+  "canonical_name": "debt",
+  "slug": "debt",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "economic_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 3,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "work_id": "PKD-WRK-1969-UBIK",
+      "title": "Ubik",
+      "slug": "ubik",
+      "year_published": 1969,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-UBIK-P0031",
+      "match_type": "exact_text",
+      "matched_text": "debt",
+      "context_window": "... Joe said. \u201cSix indices \nwhich-\u201d \n     Pat said, \u201cYou\u2019re a little, debt-stricken, ineffective \nbureaucrat who can\u2019t even scrape together enough...",
+      "seg_title": "Ubik \u2014 Page 31",
+      "segment_type": "page",
+      "position": 31,
+      "page_start": 31,
+      "page_end": 31,
+      "work_title": "Ubik",
+      "work_slug": "ubik",
+      "work_id": "PKD-WRK-1969-UBIK"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0888",
+      "match_type": "exact_text",
+      "matched_text": "debt",
+      "context_window": "... through grace.) Thus my entire karmic burden was nullified in\ntoto: the debt was paid by transfer of grace, viewed either in terms of\n",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 888",
+      "segment_type": "page",
+      "position": 888,
+      "page_start": 888,
+      "page_end": 888,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0889",
+      "match_type": "exact_text",
+      "matched_text": "debt",
+      "context_window": " is the same. This can be expressed two ways. (1)\nMy IOU was bought up, my debt paid for me (justification through grace). (2)\nThe huge stone gates of...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 889",
+      "segment_type": "page",
+      "position": 889,
+      "page_start": 889,
+      "page_end": 889,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

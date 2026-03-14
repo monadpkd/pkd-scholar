@@ -1,0 +1,612 @@
+{
+  "work_id": "PKD-WRK-1978-BUILDUNIVERSE",
+  "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+  "slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+  "work_type": "essay",
+  "source_lane": "A",
+  "author": "Philip K. Dick",
+  "year_published": 1978,
+  "page_count": 14,
+  "extraction_status": "extracted",
+  "notes": "Words: 9,338",
+  "segment_count": 14,
+  "total_word_count": 9338,
+  "segments": [
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0001",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 1",
+      "segment_type": "page",
+      "position": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "word_count": 597
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0002",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 2",
+      "segment_type": "page",
+      "position": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "word_count": 744
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0003",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 3",
+      "segment_type": "page",
+      "position": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "word_count": 726
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0004",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 4",
+      "segment_type": "page",
+      "position": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 676
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0005",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 5",
+      "segment_type": "page",
+      "position": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 716
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0006",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 6",
+      "segment_type": "page",
+      "position": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 692
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0007",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 7",
+      "segment_type": "page",
+      "position": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 705
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0008",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 8",
+      "segment_type": "page",
+      "position": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 704
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0009",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 9",
+      "segment_type": "page",
+      "position": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 638
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0010",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 10",
+      "segment_type": "page",
+      "position": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "word_count": 532
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0011",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 11",
+      "segment_type": "page",
+      "position": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "word_count": 689
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0012",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 12",
+      "segment_type": "page",
+      "position": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "word_count": 664
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0013",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 13",
+      "segment_type": "page",
+      "position": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "word_count": 637
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0014",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 14",
+      "segment_type": "page",
+      "position": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "word_count": 618
+    }
+  ],
+  "topics": [
+    {
+      "topic_id": "PKD-MET-REALITY",
+      "canonical_name": "reality",
+      "slug": "reality",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 7
+    },
+    {
+      "topic_id": "PKD-MET-GOD",
+      "canonical_name": "God",
+      "slug": "god",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "central",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-MET-AUTHENTIC",
+      "canonical_name": "authentic",
+      "slug": "authentic",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-AIT-AUTHORITY",
+      "canonical_name": "authority",
+      "slug": "authority",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-POWER",
+      "canonical_name": "power",
+      "slug": "power",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-CONTROL",
+      "canonical_name": "control",
+      "slug": "control",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-DEATH",
+      "canonical_name": "death",
+      "slug": "death",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-AIT-POLICE",
+      "canonical_name": "police",
+      "slug": "police",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-AIT-ELECTRONIC",
+      "canonical_name": "electronic",
+      "slug": "electronic",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-DEAD",
+      "canonical_name": "dead",
+      "slug": "dead",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "significant",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-SPIRIT",
+      "canonical_name": "spirit",
+      "slug": "spirit",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "significant",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-AIT-DOOR",
+      "canonical_name": "door",
+      "slug": "door",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-STATE",
+      "canonical_name": "state",
+      "slug": "state",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-REMEMBER",
+      "canonical_name": "remember",
+      "slug": "remember",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-FEAR",
+      "canonical_name": "fear",
+      "slug": "fear",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-UNREAL",
+      "canonical_name": "unreal",
+      "slug": "unreal",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-SOUL",
+      "canonical_name": "soul",
+      "slug": "soul",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-EMPIRE",
+      "canonical_name": "empire",
+      "slug": "empire",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-TOPICS",
+      "canonical_name": "topics",
+      "slug": "topics",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-SIMULACRUM",
+      "canonical_name": "simulacrum",
+      "slug": "simulacrum",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "artificial_intelligence",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-TRANSLATED",
+      "canonical_name": "translated",
+      "slug": "translated",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "mentioned",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-PAY",
+      "canonical_name": "pay",
+      "slug": "pay",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-MARKET",
+      "canonical_name": "market",
+      "slug": "market",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-FAKE",
+      "canonical_name": "fake",
+      "slug": "fake",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-MEMORY",
+      "canonical_name": "memory",
+      "slug": "memory",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-DRUG",
+      "canonical_name": "drug",
+      "slug": "drug",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-DRUGS",
+      "canonical_name": "drugs",
+      "slug": "drugs",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-MONEY",
+      "canonical_name": "money",
+      "slug": "money",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-FORGOT",
+      "canonical_name": "forgot",
+      "slug": "forgot",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-RESISTANCE",
+      "canonical_name": "resistance",
+      "slug": "resistance",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-LABEL",
+      "canonical_name": "label",
+      "slug": "label",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-ILLUSION",
+      "canonical_name": "illusion",
+      "slug": "illusion",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "mentioned",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-PERCEPTION",
+      "canonical_name": "perception",
+      "slug": "perception",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-AWARENESS",
+      "canonical_name": "awareness",
+      "slug": "awareness",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-GENUINE",
+      "canonical_name": "genuine",
+      "slug": "genuine",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-UBIK",
+      "canonical_name": "ubik",
+      "slug": "ubik",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "significant",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-RESURRECTION",
+      "canonical_name": "resurrection",
+      "slug": "resurrection",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-SERVO",
+      "canonical_name": "servo",
+      "slug": "servo",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-COUNTERFEIT",
+      "canonical_name": "counterfeit",
+      "slug": "counterfeit",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-ANDROID",
+      "canonical_name": "android",
+      "slug": "android",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "artificial_intelligence",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-LOGOS",
+      "canonical_name": "Logos",
+      "slug": "logos",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-UNDERGROUND",
+      "canonical_name": "underground",
+      "slug": "underground",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-TRANSLATION",
+      "canonical_name": "translation",
+      "slug": "translation",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "mentioned",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-DELUSION",
+      "canonical_name": "delusion",
+      "slug": "delusion",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-MORTAL",
+      "canonical_name": "mortal",
+      "slug": "mortal",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-KINDNESS",
+      "canonical_name": "kindness",
+      "slug": "kindness",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-PRECOGNITION",
+      "canonical_name": "precognition",
+      "slug": "precognition",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-GNOSTIC",
+      "canonical_name": "gnostic",
+      "slug": "gnostic",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-GNOSTICISM",
+      "canonical_name": "Gnosticism",
+      "slug": "gnosticism",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-SPURIOUSREAL",
+      "canonical_name": "spurious reality",
+      "slug": "spurious-reality",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "reality_instability",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-FASCISM",
+      "canonical_name": "fascism",
+      "slug": "fascism",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-FUGITIVE",
+      "canonical_name": "fugitive",
+      "slug": "fugitive",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ]
+}

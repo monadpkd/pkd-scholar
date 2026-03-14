@@ -1,0 +1,2673 @@
+{
+  "work_id": "PKD-WRK-1969-UBIK",
+  "title": "Ubik",
+  "slug": "ubik",
+  "work_type": "novel",
+  "source_lane": "A",
+  "author": "Philip K. Dick",
+  "year_published": 1969,
+  "page_count": 212,
+  "extraction_status": "extracted",
+  "notes": "Words: 67,036",
+  "segment_count": 210,
+  "total_word_count": 67036,
+  "segments": [
+    {
+      "seg_id": "PKD-SEG-UBIK-P0002",
+      "title": "Ubik \u2014 Page 2",
+      "segment_type": "page",
+      "position": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "word_count": 7
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0003",
+      "title": "Ubik \u2014 Page 3",
+      "segment_type": "page",
+      "position": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "word_count": 315
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0004",
+      "title": "Ubik \u2014 Page 4",
+      "segment_type": "page",
+      "position": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 321
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0005",
+      "title": "Ubik \u2014 Page 5",
+      "segment_type": "page",
+      "position": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 314
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0006",
+      "title": "Ubik \u2014 Page 6",
+      "segment_type": "page",
+      "position": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 355
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0007",
+      "title": "Ubik \u2014 Page 7",
+      "segment_type": "page",
+      "position": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 343
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0008",
+      "title": "Ubik \u2014 Page 8",
+      "segment_type": "page",
+      "position": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 360
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0009",
+      "title": "Ubik \u2014 Page 9",
+      "segment_type": "page",
+      "position": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 325
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0010",
+      "title": "Ubik \u2014 Page 10",
+      "segment_type": "page",
+      "position": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "word_count": 137
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0011",
+      "title": "Ubik \u2014 Page 11",
+      "segment_type": "page",
+      "position": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "word_count": 305
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0012",
+      "title": "Ubik \u2014 Page 12",
+      "segment_type": "page",
+      "position": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "word_count": 370
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0013",
+      "title": "Ubik \u2014 Page 13",
+      "segment_type": "page",
+      "position": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "word_count": 371
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0014",
+      "title": "Ubik \u2014 Page 14",
+      "segment_type": "page",
+      "position": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "word_count": 385
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0015",
+      "title": "Ubik \u2014 Page 15",
+      "segment_type": "page",
+      "position": 15,
+      "page_start": 15,
+      "page_end": 15,
+      "word_count": 343
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0016",
+      "title": "Ubik \u2014 Page 16",
+      "segment_type": "page",
+      "position": 16,
+      "page_start": 16,
+      "page_end": 16,
+      "word_count": 327
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0017",
+      "title": "Ubik \u2014 Page 17",
+      "segment_type": "page",
+      "position": 17,
+      "page_start": 17,
+      "page_end": 17,
+      "word_count": 357
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0018",
+      "title": "Ubik \u2014 Page 18",
+      "segment_type": "page",
+      "position": 18,
+      "page_start": 18,
+      "page_end": 18,
+      "word_count": 149
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0019",
+      "title": "Ubik \u2014 Page 19",
+      "segment_type": "page",
+      "position": 19,
+      "page_start": 19,
+      "page_end": 19,
+      "word_count": 311
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0020",
+      "title": "Ubik \u2014 Page 20",
+      "segment_type": "page",
+      "position": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "word_count": 363
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0021",
+      "title": "Ubik \u2014 Page 21",
+      "segment_type": "page",
+      "position": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "word_count": 344
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0022",
+      "title": "Ubik \u2014 Page 22",
+      "segment_type": "page",
+      "position": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "word_count": 351
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0023",
+      "title": "Ubik \u2014 Page 23",
+      "segment_type": "page",
+      "position": 23,
+      "page_start": 23,
+      "page_end": 23,
+      "word_count": 341
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0024",
+      "title": "Ubik \u2014 Page 24",
+      "segment_type": "page",
+      "position": 24,
+      "page_start": 24,
+      "page_end": 24,
+      "word_count": 347
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0025",
+      "title": "Ubik \u2014 Page 25",
+      "segment_type": "page",
+      "position": 25,
+      "page_start": 25,
+      "page_end": 25,
+      "word_count": 311
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0026",
+      "title": "Ubik \u2014 Page 26",
+      "segment_type": "page",
+      "position": 26,
+      "page_start": 26,
+      "page_end": 26,
+      "word_count": 345
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0027",
+      "title": "Ubik \u2014 Page 27",
+      "segment_type": "page",
+      "position": 27,
+      "page_start": 27,
+      "page_end": 27,
+      "word_count": 363
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0028",
+      "title": "Ubik \u2014 Page 28",
+      "segment_type": "page",
+      "position": 28,
+      "page_start": 28,
+      "page_end": 28,
+      "word_count": 367
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0029",
+      "title": "Ubik \u2014 Page 29",
+      "segment_type": "page",
+      "position": 29,
+      "page_start": 29,
+      "page_end": 29,
+      "word_count": 345
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0030",
+      "title": "Ubik \u2014 Page 30",
+      "segment_type": "page",
+      "position": 30,
+      "page_start": 30,
+      "page_end": 30,
+      "word_count": 330
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0031",
+      "title": "Ubik \u2014 Page 31",
+      "segment_type": "page",
+      "position": 31,
+      "page_start": 31,
+      "page_end": 31,
+      "word_count": 311
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0032",
+      "title": "Ubik \u2014 Page 32",
+      "segment_type": "page",
+      "position": 32,
+      "page_start": 32,
+      "page_end": 32,
+      "word_count": 327
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0033",
+      "title": "Ubik \u2014 Page 33",
+      "segment_type": "page",
+      "position": 33,
+      "page_start": 33,
+      "page_end": 33,
+      "word_count": 265
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0034",
+      "title": "Ubik \u2014 Page 34",
+      "segment_type": "page",
+      "position": 34,
+      "page_start": 34,
+      "page_end": 34,
+      "word_count": 280
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0035",
+      "title": "Ubik \u2014 Page 35",
+      "segment_type": "page",
+      "position": 35,
+      "page_start": 35,
+      "page_end": 35,
+      "word_count": 359
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0036",
+      "title": "Ubik \u2014 Page 36",
+      "segment_type": "page",
+      "position": 36,
+      "page_start": 36,
+      "page_end": 36,
+      "word_count": 337
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0037",
+      "title": "Ubik \u2014 Page 37",
+      "segment_type": "page",
+      "position": 37,
+      "page_start": 37,
+      "page_end": 37,
+      "word_count": 352
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0038",
+      "title": "Ubik \u2014 Page 38",
+      "segment_type": "page",
+      "position": 38,
+      "page_start": 38,
+      "page_end": 38,
+      "word_count": 310
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0039",
+      "title": "Ubik \u2014 Page 39",
+      "segment_type": "page",
+      "position": 39,
+      "page_start": 39,
+      "page_end": 39,
+      "word_count": 369
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0040",
+      "title": "Ubik \u2014 Page 40",
+      "segment_type": "page",
+      "position": 40,
+      "page_start": 40,
+      "page_end": 40,
+      "word_count": 341
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0041",
+      "title": "Ubik \u2014 Page 41",
+      "segment_type": "page",
+      "position": 41,
+      "page_start": 41,
+      "page_end": 41,
+      "word_count": 356
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0042",
+      "title": "Ubik \u2014 Page 42",
+      "segment_type": "page",
+      "position": 42,
+      "page_start": 42,
+      "page_end": 42,
+      "word_count": 329
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0043",
+      "title": "Ubik \u2014 Page 43",
+      "segment_type": "page",
+      "position": 43,
+      "page_start": 43,
+      "page_end": 43,
+      "word_count": 341
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0044",
+      "title": "Ubik \u2014 Page 44",
+      "segment_type": "page",
+      "position": 44,
+      "page_start": 44,
+      "page_end": 44,
+      "word_count": 368
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0045",
+      "title": "Ubik \u2014 Page 45",
+      "segment_type": "page",
+      "position": 45,
+      "page_start": 45,
+      "page_end": 45,
+      "word_count": 58
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0046",
+      "title": "Ubik \u2014 Page 46",
+      "segment_type": "page",
+      "position": 46,
+      "page_start": 46,
+      "page_end": 46,
+      "word_count": 276
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0047",
+      "title": "Ubik \u2014 Page 47",
+      "segment_type": "page",
+      "position": 47,
+      "page_start": 47,
+      "page_end": 47,
+      "word_count": 344
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0048",
+      "title": "Ubik \u2014 Page 48",
+      "segment_type": "page",
+      "position": 48,
+      "page_start": 48,
+      "page_end": 48,
+      "word_count": 330
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0049",
+      "title": "Ubik \u2014 Page 49",
+      "segment_type": "page",
+      "position": 49,
+      "page_start": 49,
+      "page_end": 49,
+      "word_count": 361
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0050",
+      "title": "Ubik \u2014 Page 50",
+      "segment_type": "page",
+      "position": 50,
+      "page_start": 50,
+      "page_end": 50,
+      "word_count": 330
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0051",
+      "title": "Ubik \u2014 Page 51",
+      "segment_type": "page",
+      "position": 51,
+      "page_start": 51,
+      "page_end": 51,
+      "word_count": 315
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0052",
+      "title": "Ubik \u2014 Page 52",
+      "segment_type": "page",
+      "position": 52,
+      "page_start": 52,
+      "page_end": 52,
+      "word_count": 340
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0053",
+      "title": "Ubik \u2014 Page 53",
+      "segment_type": "page",
+      "position": 53,
+      "page_start": 53,
+      "page_end": 53,
+      "word_count": 316
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0054",
+      "title": "Ubik \u2014 Page 54",
+      "segment_type": "page",
+      "position": 54,
+      "page_start": 54,
+      "page_end": 54,
+      "word_count": 328
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0055",
+      "title": "Ubik \u2014 Page 55",
+      "segment_type": "page",
+      "position": 55,
+      "page_start": 55,
+      "page_end": 55,
+      "word_count": 349
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0056",
+      "title": "Ubik \u2014 Page 56",
+      "segment_type": "page",
+      "position": 56,
+      "page_start": 56,
+      "page_end": 56,
+      "word_count": 296
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0057",
+      "title": "Ubik \u2014 Page 57",
+      "segment_type": "page",
+      "position": 57,
+      "page_start": 57,
+      "page_end": 57,
+      "word_count": 336
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0058",
+      "title": "Ubik \u2014 Page 58",
+      "segment_type": "page",
+      "position": 58,
+      "page_start": 58,
+      "page_end": 58,
+      "word_count": 299
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0059",
+      "title": "Ubik \u2014 Page 59",
+      "segment_type": "page",
+      "position": 59,
+      "page_start": 59,
+      "page_end": 59,
+      "word_count": 225
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0060",
+      "title": "Ubik \u2014 Page 60",
+      "segment_type": "page",
+      "position": 60,
+      "page_start": 60,
+      "page_end": 60,
+      "word_count": 291
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0061",
+      "title": "Ubik \u2014 Page 61",
+      "segment_type": "page",
+      "position": 61,
+      "page_start": 61,
+      "page_end": 61,
+      "word_count": 282
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0062",
+      "title": "Ubik \u2014 Page 62",
+      "segment_type": "page",
+      "position": 62,
+      "page_start": 62,
+      "page_end": 62,
+      "word_count": 334
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0063",
+      "title": "Ubik \u2014 Page 63",
+      "segment_type": "page",
+      "position": 63,
+      "page_start": 63,
+      "page_end": 63,
+      "word_count": 305
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0064",
+      "title": "Ubik \u2014 Page 64",
+      "segment_type": "page",
+      "position": 64,
+      "page_start": 64,
+      "page_end": 64,
+      "word_count": 320
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0065",
+      "title": "Ubik \u2014 Page 65",
+      "segment_type": "page",
+      "position": 65,
+      "page_start": 65,
+      "page_end": 65,
+      "word_count": 350
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0066",
+      "title": "Ubik \u2014 Page 66",
+      "segment_type": "page",
+      "position": 66,
+      "page_start": 66,
+      "page_end": 66,
+      "word_count": 306
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0067",
+      "title": "Ubik \u2014 Page 67",
+      "segment_type": "page",
+      "position": 67,
+      "page_start": 67,
+      "page_end": 67,
+      "word_count": 338
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0068",
+      "title": "Ubik \u2014 Page 68",
+      "segment_type": "page",
+      "position": 68,
+      "page_start": 68,
+      "page_end": 68,
+      "word_count": 336
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0069",
+      "title": "Ubik \u2014 Page 69",
+      "segment_type": "page",
+      "position": 69,
+      "page_start": 69,
+      "page_end": 69,
+      "word_count": 317
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0070",
+      "title": "Ubik \u2014 Page 70",
+      "segment_type": "page",
+      "position": 70,
+      "page_start": 70,
+      "page_end": 70,
+      "word_count": 341
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0071",
+      "title": "Ubik \u2014 Page 71",
+      "segment_type": "page",
+      "position": 71,
+      "page_start": 71,
+      "page_end": 71,
+      "word_count": 331
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0072",
+      "title": "Ubik \u2014 Page 72",
+      "segment_type": "page",
+      "position": 72,
+      "page_start": 72,
+      "page_end": 72,
+      "word_count": 332
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0073",
+      "title": "Ubik \u2014 Page 73",
+      "segment_type": "page",
+      "position": 73,
+      "page_start": 73,
+      "page_end": 73,
+      "word_count": 331
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0074",
+      "title": "Ubik \u2014 Page 74",
+      "segment_type": "page",
+      "position": 74,
+      "page_start": 74,
+      "page_end": 74,
+      "word_count": 24
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0075",
+      "title": "Ubik \u2014 Page 75",
+      "segment_type": "page",
+      "position": 75,
+      "page_start": 75,
+      "page_end": 75,
+      "word_count": 252
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0076",
+      "title": "Ubik \u2014 Page 76",
+      "segment_type": "page",
+      "position": 76,
+      "page_start": 76,
+      "page_end": 76,
+      "word_count": 330
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0077",
+      "title": "Ubik \u2014 Page 77",
+      "segment_type": "page",
+      "position": 77,
+      "page_start": 77,
+      "page_end": 77,
+      "word_count": 327
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0078",
+      "title": "Ubik \u2014 Page 78",
+      "segment_type": "page",
+      "position": 78,
+      "page_start": 78,
+      "page_end": 78,
+      "word_count": 307
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0079",
+      "title": "Ubik \u2014 Page 79",
+      "segment_type": "page",
+      "position": 79,
+      "page_start": 79,
+      "page_end": 79,
+      "word_count": 334
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0080",
+      "title": "Ubik \u2014 Page 80",
+      "segment_type": "page",
+      "position": 80,
+      "page_start": 80,
+      "page_end": 80,
+      "word_count": 312
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0081",
+      "title": "Ubik \u2014 Page 81",
+      "segment_type": "page",
+      "position": 81,
+      "page_start": 81,
+      "page_end": 81,
+      "word_count": 349
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0082",
+      "title": "Ubik \u2014 Page 82",
+      "segment_type": "page",
+      "position": 82,
+      "page_start": 82,
+      "page_end": 82,
+      "word_count": 339
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0083",
+      "title": "Ubik \u2014 Page 83",
+      "segment_type": "page",
+      "position": 83,
+      "page_start": 83,
+      "page_end": 83,
+      "word_count": 319
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0084",
+      "title": "Ubik \u2014 Page 84",
+      "segment_type": "page",
+      "position": 84,
+      "page_start": 84,
+      "page_end": 84,
+      "word_count": 336
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0085",
+      "title": "Ubik \u2014 Page 85",
+      "segment_type": "page",
+      "position": 85,
+      "page_start": 85,
+      "page_end": 85,
+      "word_count": 345
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0086",
+      "title": "Ubik \u2014 Page 86",
+      "segment_type": "page",
+      "position": 86,
+      "page_start": 86,
+      "page_end": 86,
+      "word_count": 357
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0087",
+      "title": "Ubik \u2014 Page 87",
+      "segment_type": "page",
+      "position": 87,
+      "page_start": 87,
+      "page_end": 87,
+      "word_count": 310
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0088",
+      "title": "Ubik \u2014 Page 88",
+      "segment_type": "page",
+      "position": 88,
+      "page_start": 88,
+      "page_end": 88,
+      "word_count": 340
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0089",
+      "title": "Ubik \u2014 Page 89",
+      "segment_type": "page",
+      "position": 89,
+      "page_start": 89,
+      "page_end": 89,
+      "word_count": 356
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0090",
+      "title": "Ubik \u2014 Page 90",
+      "segment_type": "page",
+      "position": 90,
+      "page_start": 90,
+      "page_end": 90,
+      "word_count": 349
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0091",
+      "title": "Ubik \u2014 Page 91",
+      "segment_type": "page",
+      "position": 91,
+      "page_start": 91,
+      "page_end": 91,
+      "word_count": 258
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0092",
+      "title": "Ubik \u2014 Page 92",
+      "segment_type": "page",
+      "position": 92,
+      "page_start": 92,
+      "page_end": 92,
+      "word_count": 292
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0093",
+      "title": "Ubik \u2014 Page 93",
+      "segment_type": "page",
+      "position": 93,
+      "page_start": 93,
+      "page_end": 93,
+      "word_count": 347
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0094",
+      "title": "Ubik \u2014 Page 94",
+      "segment_type": "page",
+      "position": 94,
+      "page_start": 94,
+      "page_end": 94,
+      "word_count": 347
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0095",
+      "title": "Ubik \u2014 Page 95",
+      "segment_type": "page",
+      "position": 95,
+      "page_start": 95,
+      "page_end": 95,
+      "word_count": 329
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0096",
+      "title": "Ubik \u2014 Page 96",
+      "segment_type": "page",
+      "position": 96,
+      "page_start": 96,
+      "page_end": 96,
+      "word_count": 318
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0097",
+      "title": "Ubik \u2014 Page 97",
+      "segment_type": "page",
+      "position": 97,
+      "page_start": 97,
+      "page_end": 97,
+      "word_count": 347
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0098",
+      "title": "Ubik \u2014 Page 98",
+      "segment_type": "page",
+      "position": 98,
+      "page_start": 98,
+      "page_end": 98,
+      "word_count": 333
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0099",
+      "title": "Ubik \u2014 Page 99",
+      "segment_type": "page",
+      "position": 99,
+      "page_start": 99,
+      "page_end": 99,
+      "word_count": 339
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0100",
+      "title": "Ubik \u2014 Page 100",
+      "segment_type": "page",
+      "position": 100,
+      "page_start": 100,
+      "page_end": 100,
+      "word_count": 351
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0101",
+      "title": "Ubik \u2014 Page 101",
+      "segment_type": "page",
+      "position": 101,
+      "page_start": 101,
+      "page_end": 101,
+      "word_count": 306
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0102",
+      "title": "Ubik \u2014 Page 102",
+      "segment_type": "page",
+      "position": 102,
+      "page_start": 102,
+      "page_end": 102,
+      "word_count": 302
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0103",
+      "title": "Ubik \u2014 Page 103",
+      "segment_type": "page",
+      "position": 103,
+      "page_start": 103,
+      "page_end": 103,
+      "word_count": 312
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0104",
+      "title": "Ubik \u2014 Page 104",
+      "segment_type": "page",
+      "position": 104,
+      "page_start": 104,
+      "page_end": 104,
+      "word_count": 343
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0105",
+      "title": "Ubik \u2014 Page 105",
+      "segment_type": "page",
+      "position": 105,
+      "page_start": 105,
+      "page_end": 105,
+      "word_count": 310
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0106",
+      "title": "Ubik \u2014 Page 106",
+      "segment_type": "page",
+      "position": 106,
+      "page_start": 106,
+      "page_end": 106,
+      "word_count": 343
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0107",
+      "title": "Ubik \u2014 Page 107",
+      "segment_type": "page",
+      "position": 107,
+      "page_start": 107,
+      "page_end": 107,
+      "word_count": 317
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0108",
+      "title": "Ubik \u2014 Page 108",
+      "segment_type": "page",
+      "position": 108,
+      "page_start": 108,
+      "page_end": 108,
+      "word_count": 346
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0109",
+      "title": "Ubik \u2014 Page 109",
+      "segment_type": "page",
+      "position": 109,
+      "page_start": 109,
+      "page_end": 109,
+      "word_count": 62
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0110",
+      "title": "Ubik \u2014 Page 110",
+      "segment_type": "page",
+      "position": 110,
+      "page_start": 110,
+      "page_end": 110,
+      "word_count": 299
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0111",
+      "title": "Ubik \u2014 Page 111",
+      "segment_type": "page",
+      "position": 111,
+      "page_start": 111,
+      "page_end": 111,
+      "word_count": 360
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0112",
+      "title": "Ubik \u2014 Page 112",
+      "segment_type": "page",
+      "position": 112,
+      "page_start": 112,
+      "page_end": 112,
+      "word_count": 341
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0113",
+      "title": "Ubik \u2014 Page 113",
+      "segment_type": "page",
+      "position": 113,
+      "page_start": 113,
+      "page_end": 113,
+      "word_count": 342
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0114",
+      "title": "Ubik \u2014 Page 114",
+      "segment_type": "page",
+      "position": 114,
+      "page_start": 114,
+      "page_end": 114,
+      "word_count": 346
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0115",
+      "title": "Ubik \u2014 Page 115",
+      "segment_type": "page",
+      "position": 115,
+      "page_start": 115,
+      "page_end": 115,
+      "word_count": 359
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0116",
+      "title": "Ubik \u2014 Page 116",
+      "segment_type": "page",
+      "position": 116,
+      "page_start": 116,
+      "page_end": 116,
+      "word_count": 330
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0117",
+      "title": "Ubik \u2014 Page 117",
+      "segment_type": "page",
+      "position": 117,
+      "page_start": 117,
+      "page_end": 117,
+      "word_count": 377
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0118",
+      "title": "Ubik \u2014 Page 118",
+      "segment_type": "page",
+      "position": 118,
+      "page_start": 118,
+      "page_end": 118,
+      "word_count": 322
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0119",
+      "title": "Ubik \u2014 Page 119",
+      "segment_type": "page",
+      "position": 119,
+      "page_start": 119,
+      "page_end": 119,
+      "word_count": 328
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0120",
+      "title": "Ubik \u2014 Page 120",
+      "segment_type": "page",
+      "position": 120,
+      "page_start": 120,
+      "page_end": 120,
+      "word_count": 362
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0121",
+      "title": "Ubik \u2014 Page 121",
+      "segment_type": "page",
+      "position": 121,
+      "page_start": 121,
+      "page_end": 121,
+      "word_count": 170
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0122",
+      "title": "Ubik \u2014 Page 122",
+      "segment_type": "page",
+      "position": 122,
+      "page_start": 122,
+      "page_end": 122,
+      "word_count": 287
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0123",
+      "title": "Ubik \u2014 Page 123",
+      "segment_type": "page",
+      "position": 123,
+      "page_start": 123,
+      "page_end": 123,
+      "word_count": 328
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0124",
+      "title": "Ubik \u2014 Page 124",
+      "segment_type": "page",
+      "position": 124,
+      "page_start": 124,
+      "page_end": 124,
+      "word_count": 335
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0125",
+      "title": "Ubik \u2014 Page 125",
+      "segment_type": "page",
+      "position": 125,
+      "page_start": 125,
+      "page_end": 125,
+      "word_count": 341
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0126",
+      "title": "Ubik \u2014 Page 126",
+      "segment_type": "page",
+      "position": 126,
+      "page_start": 126,
+      "page_end": 126,
+      "word_count": 344
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0127",
+      "title": "Ubik \u2014 Page 127",
+      "segment_type": "page",
+      "position": 127,
+      "page_start": 127,
+      "page_end": 127,
+      "word_count": 331
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0128",
+      "title": "Ubik \u2014 Page 128",
+      "segment_type": "page",
+      "position": 128,
+      "page_start": 128,
+      "page_end": 128,
+      "word_count": 358
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0129",
+      "title": "Ubik \u2014 Page 129",
+      "segment_type": "page",
+      "position": 129,
+      "page_start": 129,
+      "page_end": 129,
+      "word_count": 348
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0130",
+      "title": "Ubik \u2014 Page 130",
+      "segment_type": "page",
+      "position": 130,
+      "page_start": 130,
+      "page_end": 130,
+      "word_count": 362
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0131",
+      "title": "Ubik \u2014 Page 131",
+      "segment_type": "page",
+      "position": 131,
+      "page_start": 131,
+      "page_end": 131,
+      "word_count": 329
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0132",
+      "title": "Ubik \u2014 Page 132",
+      "segment_type": "page",
+      "position": 132,
+      "page_start": 132,
+      "page_end": 132,
+      "word_count": 312
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0133",
+      "title": "Ubik \u2014 Page 133",
+      "segment_type": "page",
+      "position": 133,
+      "page_start": 133,
+      "page_end": 133,
+      "word_count": 354
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0134",
+      "title": "Ubik \u2014 Page 134",
+      "segment_type": "page",
+      "position": 134,
+      "page_start": 134,
+      "page_end": 134,
+      "word_count": 367
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0135",
+      "title": "Ubik \u2014 Page 135",
+      "segment_type": "page",
+      "position": 135,
+      "page_start": 135,
+      "page_end": 135,
+      "word_count": 356
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0136",
+      "title": "Ubik \u2014 Page 136",
+      "segment_type": "page",
+      "position": 136,
+      "page_start": 136,
+      "page_end": 136,
+      "word_count": 372
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0137",
+      "title": "Ubik \u2014 Page 137",
+      "segment_type": "page",
+      "position": 137,
+      "page_start": 137,
+      "page_end": 137,
+      "word_count": 342
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0138",
+      "title": "Ubik \u2014 Page 138",
+      "segment_type": "page",
+      "position": 138,
+      "page_start": 138,
+      "page_end": 138,
+      "word_count": 353
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0139",
+      "title": "Ubik \u2014 Page 139",
+      "segment_type": "page",
+      "position": 139,
+      "page_start": 139,
+      "page_end": 139,
+      "word_count": 336
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0140",
+      "title": "Ubik \u2014 Page 140",
+      "segment_type": "page",
+      "position": 140,
+      "page_start": 140,
+      "page_end": 140,
+      "word_count": 77
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0141",
+      "title": "Ubik \u2014 Page 141",
+      "segment_type": "page",
+      "position": 141,
+      "page_start": 141,
+      "page_end": 141,
+      "word_count": 285
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0142",
+      "title": "Ubik \u2014 Page 142",
+      "segment_type": "page",
+      "position": 142,
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 316
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0143",
+      "title": "Ubik \u2014 Page 143",
+      "segment_type": "page",
+      "position": 143,
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 314
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0144",
+      "title": "Ubik \u2014 Page 144",
+      "segment_type": "page",
+      "position": 144,
+      "page_start": 144,
+      "page_end": 144,
+      "word_count": 340
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0145",
+      "title": "Ubik \u2014 Page 145",
+      "segment_type": "page",
+      "position": 145,
+      "page_start": 145,
+      "page_end": 145,
+      "word_count": 352
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0146",
+      "title": "Ubik \u2014 Page 146",
+      "segment_type": "page",
+      "position": 146,
+      "page_start": 146,
+      "page_end": 146,
+      "word_count": 338
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0147",
+      "title": "Ubik \u2014 Page 147",
+      "segment_type": "page",
+      "position": 147,
+      "page_start": 147,
+      "page_end": 147,
+      "word_count": 392
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0148",
+      "title": "Ubik \u2014 Page 148",
+      "segment_type": "page",
+      "position": 148,
+      "page_start": 148,
+      "page_end": 148,
+      "word_count": 344
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0149",
+      "title": "Ubik \u2014 Page 149",
+      "segment_type": "page",
+      "position": 149,
+      "page_start": 149,
+      "page_end": 149,
+      "word_count": 330
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0150",
+      "title": "Ubik \u2014 Page 150",
+      "segment_type": "page",
+      "position": 150,
+      "page_start": 150,
+      "page_end": 150,
+      "word_count": 311
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0151",
+      "title": "Ubik \u2014 Page 151",
+      "segment_type": "page",
+      "position": 151,
+      "page_start": 151,
+      "page_end": 151,
+      "word_count": 352
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0152",
+      "title": "Ubik \u2014 Page 152",
+      "segment_type": "page",
+      "position": 152,
+      "page_start": 152,
+      "page_end": 152,
+      "word_count": 324
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0153",
+      "title": "Ubik \u2014 Page 153",
+      "segment_type": "page",
+      "position": 153,
+      "page_start": 153,
+      "page_end": 153,
+      "word_count": 313
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0154",
+      "title": "Ubik \u2014 Page 154",
+      "segment_type": "page",
+      "position": 154,
+      "page_start": 154,
+      "page_end": 154,
+      "word_count": 314
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0155",
+      "title": "Ubik \u2014 Page 155",
+      "segment_type": "page",
+      "position": 155,
+      "page_start": 155,
+      "page_end": 155,
+      "word_count": 306
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0156",
+      "title": "Ubik \u2014 Page 156",
+      "segment_type": "page",
+      "position": 156,
+      "page_start": 156,
+      "page_end": 156,
+      "word_count": 330
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0157",
+      "title": "Ubik \u2014 Page 157",
+      "segment_type": "page",
+      "position": 157,
+      "page_start": 157,
+      "page_end": 157,
+      "word_count": 309
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0158",
+      "title": "Ubik \u2014 Page 158",
+      "segment_type": "page",
+      "position": 158,
+      "page_start": 158,
+      "page_end": 158,
+      "word_count": 319
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0159",
+      "title": "Ubik \u2014 Page 159",
+      "segment_type": "page",
+      "position": 159,
+      "page_start": 159,
+      "page_end": 159,
+      "word_count": 341
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0160",
+      "title": "Ubik \u2014 Page 160",
+      "segment_type": "page",
+      "position": 160,
+      "page_start": 160,
+      "page_end": 160,
+      "word_count": 322
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0161",
+      "title": "Ubik \u2014 Page 161",
+      "segment_type": "page",
+      "position": 161,
+      "page_start": 161,
+      "page_end": 161,
+      "word_count": 365
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0162",
+      "title": "Ubik \u2014 Page 162",
+      "segment_type": "page",
+      "position": 162,
+      "page_start": 162,
+      "page_end": 162,
+      "word_count": 336
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0163",
+      "title": "Ubik \u2014 Page 163",
+      "segment_type": "page",
+      "position": 163,
+      "page_start": 163,
+      "page_end": 163,
+      "word_count": 360
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0164",
+      "title": "Ubik \u2014 Page 164",
+      "segment_type": "page",
+      "position": 164,
+      "page_start": 164,
+      "page_end": 164,
+      "word_count": 334
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0165",
+      "title": "Ubik \u2014 Page 165",
+      "segment_type": "page",
+      "position": 165,
+      "page_start": 165,
+      "page_end": 165,
+      "word_count": 220
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0166",
+      "title": "Ubik \u2014 Page 166",
+      "segment_type": "page",
+      "position": 166,
+      "page_start": 166,
+      "page_end": 166,
+      "word_count": 291
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0167",
+      "title": "Ubik \u2014 Page 167",
+      "segment_type": "page",
+      "position": 167,
+      "page_start": 167,
+      "page_end": 167,
+      "word_count": 331
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0168",
+      "title": "Ubik \u2014 Page 168",
+      "segment_type": "page",
+      "position": 168,
+      "page_start": 168,
+      "page_end": 168,
+      "word_count": 366
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0169",
+      "title": "Ubik \u2014 Page 169",
+      "segment_type": "page",
+      "position": 169,
+      "page_start": 169,
+      "page_end": 169,
+      "word_count": 353
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0170",
+      "title": "Ubik \u2014 Page 170",
+      "segment_type": "page",
+      "position": 170,
+      "page_start": 170,
+      "page_end": 170,
+      "word_count": 366
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0171",
+      "title": "Ubik \u2014 Page 171",
+      "segment_type": "page",
+      "position": 171,
+      "page_start": 171,
+      "page_end": 171,
+      "word_count": 360
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0172",
+      "title": "Ubik \u2014 Page 172",
+      "segment_type": "page",
+      "position": 172,
+      "page_start": 172,
+      "page_end": 172,
+      "word_count": 350
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0173",
+      "title": "Ubik \u2014 Page 173",
+      "segment_type": "page",
+      "position": 173,
+      "page_start": 173,
+      "page_end": 173,
+      "word_count": 354
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0174",
+      "title": "Ubik \u2014 Page 174",
+      "segment_type": "page",
+      "position": 174,
+      "page_start": 174,
+      "page_end": 174,
+      "word_count": 388
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0175",
+      "title": "Ubik \u2014 Page 175",
+      "segment_type": "page",
+      "position": 175,
+      "page_start": 175,
+      "page_end": 175,
+      "word_count": 381
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0176",
+      "title": "Ubik \u2014 Page 176",
+      "segment_type": "page",
+      "position": 176,
+      "page_start": 176,
+      "page_end": 176,
+      "word_count": 382
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0177",
+      "title": "Ubik \u2014 Page 177",
+      "segment_type": "page",
+      "position": 177,
+      "page_start": 177,
+      "page_end": 177,
+      "word_count": 153
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0178",
+      "title": "Ubik \u2014 Page 178",
+      "segment_type": "page",
+      "position": 178,
+      "page_start": 178,
+      "page_end": 178,
+      "word_count": 336
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0179",
+      "title": "Ubik \u2014 Page 179",
+      "segment_type": "page",
+      "position": 179,
+      "page_start": 179,
+      "page_end": 179,
+      "word_count": 369
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0180",
+      "title": "Ubik \u2014 Page 180",
+      "segment_type": "page",
+      "position": 180,
+      "page_start": 180,
+      "page_end": 180,
+      "word_count": 360
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0181",
+      "title": "Ubik \u2014 Page 181",
+      "segment_type": "page",
+      "position": 181,
+      "page_start": 181,
+      "page_end": 181,
+      "word_count": 307
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0182",
+      "title": "Ubik \u2014 Page 182",
+      "segment_type": "page",
+      "position": 182,
+      "page_start": 182,
+      "page_end": 182,
+      "word_count": 337
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0183",
+      "title": "Ubik \u2014 Page 183",
+      "segment_type": "page",
+      "position": 183,
+      "page_start": 183,
+      "page_end": 183,
+      "word_count": 351
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0184",
+      "title": "Ubik \u2014 Page 184",
+      "segment_type": "page",
+      "position": 184,
+      "page_start": 184,
+      "page_end": 184,
+      "word_count": 294
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0185",
+      "title": "Ubik \u2014 Page 185",
+      "segment_type": "page",
+      "position": 185,
+      "page_start": 185,
+      "page_end": 185,
+      "word_count": 308
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0186",
+      "title": "Ubik \u2014 Page 186",
+      "segment_type": "page",
+      "position": 186,
+      "page_start": 186,
+      "page_end": 186,
+      "word_count": 338
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0187",
+      "title": "Ubik \u2014 Page 187",
+      "segment_type": "page",
+      "position": 187,
+      "page_start": 187,
+      "page_end": 187,
+      "word_count": 219
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0188",
+      "title": "Ubik \u2014 Page 188",
+      "segment_type": "page",
+      "position": 188,
+      "page_start": 188,
+      "page_end": 188,
+      "word_count": 295
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0189",
+      "title": "Ubik \u2014 Page 189",
+      "segment_type": "page",
+      "position": 189,
+      "page_start": 189,
+      "page_end": 189,
+      "word_count": 341
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0190",
+      "title": "Ubik \u2014 Page 190",
+      "segment_type": "page",
+      "position": 190,
+      "page_start": 190,
+      "page_end": 190,
+      "word_count": 333
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0191",
+      "title": "Ubik \u2014 Page 191",
+      "segment_type": "page",
+      "position": 191,
+      "page_start": 191,
+      "page_end": 191,
+      "word_count": 360
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0192",
+      "title": "Ubik \u2014 Page 192",
+      "segment_type": "page",
+      "position": 192,
+      "page_start": 192,
+      "page_end": 192,
+      "word_count": 368
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0193",
+      "title": "Ubik \u2014 Page 193",
+      "segment_type": "page",
+      "position": 193,
+      "page_start": 193,
+      "page_end": 193,
+      "word_count": 371
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0194",
+      "title": "Ubik \u2014 Page 194",
+      "segment_type": "page",
+      "position": 194,
+      "page_start": 194,
+      "page_end": 194,
+      "word_count": 349
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0195",
+      "title": "Ubik \u2014 Page 195",
+      "segment_type": "page",
+      "position": 195,
+      "page_start": 195,
+      "page_end": 195,
+      "word_count": 138
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0196",
+      "title": "Ubik \u2014 Page 196",
+      "segment_type": "page",
+      "position": 196,
+      "page_start": 196,
+      "page_end": 196,
+      "word_count": 308
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0197",
+      "title": "Ubik \u2014 Page 197",
+      "segment_type": "page",
+      "position": 197,
+      "page_start": 197,
+      "page_end": 197,
+      "word_count": 336
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0198",
+      "title": "Ubik \u2014 Page 198",
+      "segment_type": "page",
+      "position": 198,
+      "page_start": 198,
+      "page_end": 198,
+      "word_count": 331
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0199",
+      "title": "Ubik \u2014 Page 199",
+      "segment_type": "page",
+      "position": 199,
+      "page_start": 199,
+      "page_end": 199,
+      "word_count": 357
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0200",
+      "title": "Ubik \u2014 Page 200",
+      "segment_type": "page",
+      "position": 200,
+      "page_start": 200,
+      "page_end": 200,
+      "word_count": 328
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0201",
+      "title": "Ubik \u2014 Page 201",
+      "segment_type": "page",
+      "position": 201,
+      "page_start": 201,
+      "page_end": 201,
+      "word_count": 353
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0202",
+      "title": "Ubik \u2014 Page 202",
+      "segment_type": "page",
+      "position": 202,
+      "page_start": 202,
+      "page_end": 202,
+      "word_count": 376
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0203",
+      "title": "Ubik \u2014 Page 203",
+      "segment_type": "page",
+      "position": 203,
+      "page_start": 203,
+      "page_end": 203,
+      "word_count": 297
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0204",
+      "title": "Ubik \u2014 Page 204",
+      "segment_type": "page",
+      "position": 204,
+      "page_start": 204,
+      "page_end": 204,
+      "word_count": 353
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0205",
+      "title": "Ubik \u2014 Page 205",
+      "segment_type": "page",
+      "position": 205,
+      "page_start": 205,
+      "page_end": 205,
+      "word_count": 350
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0206",
+      "title": "Ubik \u2014 Page 206",
+      "segment_type": "page",
+      "position": 206,
+      "page_start": 206,
+      "page_end": 206,
+      "word_count": 351
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0207",
+      "title": "Ubik \u2014 Page 207",
+      "segment_type": "page",
+      "position": 207,
+      "page_start": 207,
+      "page_end": 207,
+      "word_count": 333
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0208",
+      "title": "Ubik \u2014 Page 208",
+      "segment_type": "page",
+      "position": 208,
+      "page_start": 208,
+      "page_end": 208,
+      "word_count": 232
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0209",
+      "title": "Ubik \u2014 Page 209",
+      "segment_type": "page",
+      "position": 209,
+      "page_start": 209,
+      "page_end": 209,
+      "word_count": 299
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0210",
+      "title": "Ubik \u2014 Page 210",
+      "segment_type": "page",
+      "position": 210,
+      "page_start": 210,
+      "page_end": 210,
+      "word_count": 91
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0211",
+      "title": "Ubik \u2014 Page 211",
+      "segment_type": "page",
+      "position": 211,
+      "page_start": 211,
+      "page_end": 211,
+      "word_count": 105
+    }
+  ],
+  "topics": [
+    {
+      "topic_id": "PKD-AIT-DOOR",
+      "canonical_name": "door",
+      "slug": "door",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 51
+    },
+    {
+      "topic_id": "PKD-MET-UBIK",
+      "canonical_name": "ubik",
+      "slug": "ubik",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 51
+    },
+    {
+      "topic_id": "PKD-AIT-MONEY",
+      "canonical_name": "money",
+      "slug": "money",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 35
+    },
+    {
+      "topic_id": "PKD-MET-DEATH",
+      "canonical_name": "death",
+      "slug": "death",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "central",
+      "match_count": 27
+    },
+    {
+      "topic_id": "PKD-MET-GOD",
+      "canonical_name": "God",
+      "slug": "god",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "central",
+      "match_count": 27
+    },
+    {
+      "topic_id": "PKD-MET-DEAD",
+      "canonical_name": "dead",
+      "slug": "dead",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "central",
+      "match_count": 27
+    },
+    {
+      "topic_id": "PKD-MET-HALFLIFE",
+      "canonical_name": "half-life",
+      "slug": "half-life",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 25
+    },
+    {
+      "topic_id": "PKD-PSY-REMEMBER",
+      "canonical_name": "remember",
+      "slug": "remember",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "central",
+      "match_count": 21
+    },
+    {
+      "topic_id": "PKD-MET-COLDPAC",
+      "canonical_name": "cold-pac",
+      "slug": "cold-pac",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "central",
+      "match_count": 20
+    },
+    {
+      "topic_id": "PKD-AIT-PAY",
+      "canonical_name": "pay",
+      "slug": "pay",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 19
+    },
+    {
+      "topic_id": "PKD-MET-ALIVE",
+      "canonical_name": "alive",
+      "slug": "alive",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "central",
+      "match_count": 17
+    },
+    {
+      "topic_id": "PKD-AIT-COIN",
+      "canonical_name": "coin",
+      "slug": "coin",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 16
+    },
+    {
+      "topic_id": "PKD-MET-PRECOG",
+      "canonical_name": "precog",
+      "slug": "precog",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "central",
+      "match_count": 16
+    },
+    {
+      "topic_id": "PKD-MET-PSI",
+      "canonical_name": "psi",
+      "slug": "psi",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "central",
+      "match_count": 15
+    },
+    {
+      "topic_id": "PKD-MET-REALITY",
+      "canonical_name": "reality",
+      "slug": "reality",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 14
+    },
+    {
+      "topic_id": "PKD-MET-SPRAYCAN",
+      "canonical_name": "spray can",
+      "slug": "spray-can",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 13
+    },
+    {
+      "topic_id": "PKD-MET-DECAY",
+      "canonical_name": "decay",
+      "slug": "decay",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 12
+    },
+    {
+      "topic_id": "PKD-MET-TELEPATH",
+      "canonical_name": "telepath",
+      "slug": "telepath",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "central",
+      "match_count": 12
+    },
+    {
+      "topic_id": "PKD-AIT-CONTROL",
+      "canonical_name": "control",
+      "slug": "control",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 11
+    },
+    {
+      "topic_id": "PKD-AIT-STATE",
+      "canonical_name": "state",
+      "slug": "state",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "central",
+      "match_count": 11
+    },
+    {
+      "topic_id": "PKD-AIT-POWER",
+      "canonical_name": "power",
+      "slug": "power",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 11
+    },
+    {
+      "topic_id": "PKD-MET-DYING",
+      "canonical_name": "dying",
+      "slug": "dying",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "central",
+      "match_count": 11
+    },
+    {
+      "topic_id": "PKD-PSY-SELF",
+      "canonical_name": "self",
+      "slug": "self",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "central",
+      "match_count": 11
+    },
+    {
+      "topic_id": "PKD-MET-AUTHENTIC",
+      "canonical_name": "authentic",
+      "slug": "authentic",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 11
+    },
+    {
+      "topic_id": "PKD-AIT-WAR",
+      "canonical_name": "war",
+      "slug": "war",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 10
+    },
+    {
+      "topic_id": "PKD-AIT-MACHINE",
+      "canonical_name": "machine",
+      "slug": "machine",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "central",
+      "match_count": 9
+    },
+    {
+      "topic_id": "PKD-PSY-FEAR",
+      "canonical_name": "fear",
+      "slug": "fear",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "significant",
+      "match_count": 8
+    },
+    {
+      "topic_id": "PKD-PSY-LABEL",
+      "canonical_name": "label",
+      "slug": "label",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "significant",
+      "match_count": 7
+    },
+    {
+      "topic_id": "PKD-AIT-RENT",
+      "canonical_name": "rent",
+      "slug": "rent",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 7
+    },
+    {
+      "topic_id": "PKD-AIT-CIRCUIT",
+      "canonical_name": "circuit",
+      "slug": "circuit",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "significant",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-MET-GENUINE",
+      "canonical_name": "genuine",
+      "slug": "genuine",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "significant",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-AIT-MECHANISM",
+      "canonical_name": "mechanism",
+      "slug": "mechanism",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "significant",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-AIT-POLICE",
+      "canonical_name": "police",
+      "slug": "police",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-AIT-LOCKED",
+      "canonical_name": "locked",
+      "slug": "locked",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-PSY-MEMORY",
+      "canonical_name": "memory",
+      "slug": "memory",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-AIT-TOLL",
+      "canonical_name": "toll",
+      "slug": "toll",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-AUTHORITY",
+      "canonical_name": "authority",
+      "slug": "authority",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-LABOR",
+      "canonical_name": "labor",
+      "slug": "labor",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-MET-AWARENESS",
+      "canonical_name": "awareness",
+      "slug": "awareness",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-MET-REGRESSION",
+      "canonical_name": "regression",
+      "slug": "regression",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "significant",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-CREDIT",
+      "canonical_name": "credit",
+      "slug": "credit",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-SUBSTANCE",
+      "canonical_name": "substance",
+      "slug": "substance",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-DRUGS",
+      "canonical_name": "drugs",
+      "slug": "drugs",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-GRAVE",
+      "canonical_name": "grave",
+      "slug": "grave",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-REALWORLD",
+      "canonical_name": "real world",
+      "slug": "real-world",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-ERSATZ",
+      "canonical_name": "ersatz",
+      "slug": "ersatz",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-AIT-MARKET",
+      "canonical_name": "market",
+      "slug": "market",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-DRUG",
+      "canonical_name": "drug",
+      "slug": "drug",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-PROFIT",
+      "canonical_name": "profit",
+      "slug": "profit",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-FORGOT",
+      "canonical_name": "forgot",
+      "slug": "forgot",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-FACTORY",
+      "canonical_name": "factory",
+      "slug": "factory",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-FUNERAL",
+      "canonical_name": "funeral",
+      "slug": "funeral",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-SOUL",
+      "canonical_name": "soul",
+      "slug": "soul",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-PERCEPTION",
+      "canonical_name": "perception",
+      "slug": "perception",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-PAYMENT",
+      "canonical_name": "payment",
+      "slug": "payment",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-RESURRECTION",
+      "canonical_name": "resurrection",
+      "slug": "resurrection",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-ANXIETY",
+      "canonical_name": "anxiety",
+      "slug": "anxiety",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-HALLUCINATIO",
+      "canonical_name": "hallucination",
+      "slug": "hallucination",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-CURRENCY",
+      "canonical_name": "currency",
+      "slug": "currency",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-INSANE",
+      "canonical_name": "insane",
+      "slug": "insane",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-CONSCIOUSNES",
+      "canonical_name": "consciousness",
+      "slug": "consciousness",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-ELECTRONIC",
+      "canonical_name": "electronic",
+      "slug": "electronic",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-GOVERNMENT",
+      "canonical_name": "government",
+      "slug": "government",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-FAKE",
+      "canonical_name": "fake",
+      "slug": "fake",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-COMPUTER",
+      "canonical_name": "computer",
+      "slug": "computer",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-ROBOT",
+      "canonical_name": "robot",
+      "slug": "robot",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-IDENTITY",
+      "canonical_name": "identity",
+      "slug": "identity",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-RESISTANCE",
+      "canonical_name": "resistance",
+      "slug": "resistance",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-UNREAL",
+      "canonical_name": "unreal",
+      "slug": "unreal",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-PSYCHOTIC",
+      "canonical_name": "psychotic",
+      "slug": "psychotic",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-MILITARY",
+      "canonical_name": "military",
+      "slug": "military",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-COMPASSION",
+      "canonical_name": "compassion",
+      "slug": "compassion",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-COLONY",
+      "canonical_name": "colony",
+      "slug": "colony",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-SENTIENCE",
+      "canonical_name": "sentience",
+      "slug": "sentience",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-PSYCHIC",
+      "canonical_name": "psychic",
+      "slug": "psychic",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-BUREAUCRAT",
+      "canonical_name": "bureaucrat",
+      "slug": "bureaucrat",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-DEBT",
+      "canonical_name": "debt",
+      "slug": "debt",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-SERVO",
+      "canonical_name": "servo",
+      "slug": "servo",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-TYRANNY",
+      "canonical_name": "tyranny",
+      "slug": "tyranny",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-EMPIRE",
+      "canonical_name": "empire",
+      "slug": "empire",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-AFTERLIFE",
+      "canonical_name": "afterlife",
+      "slug": "afterlife",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-DOMINATION",
+      "canonical_name": "domination",
+      "slug": "domination",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-ENTROPY",
+      "canonical_name": "entropy",
+      "slug": "entropy",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-COUNTERFEIT",
+      "canonical_name": "counterfeit",
+      "slug": "counterfeit",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-TOMB",
+      "canonical_name": "tomb",
+      "slug": "tomb",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ]
+}

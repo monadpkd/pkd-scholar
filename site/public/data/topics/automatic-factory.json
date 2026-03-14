@@ -1,0 +1,38 @@
+{
+  "topic_id": "PKD-AIT-AUTOMATICFAC",
+  "canonical_name": "automatic factory",
+  "slug": "automatic-factory",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "automation_and_labor",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 1,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1965-5NOVELS",
+      "title": "Five Great Novels (incl. Three Stigmata)",
+      "slug": "five-great-novels-incl-three-stigmata",
+      "year_published": 1965,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0028",
+      "match_type": "exact_text",
+      "matched_text": "automatic factory",
+      "context_window": " was always\nmore of had been congealed into permanence long ago, as if\nthe automatic factory that cranked out these objects had\njammed in the on position. How the...",
+      "seg_title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 28",
+      "segment_type": "page",
+      "position": 28,
+      "page_start": 28,
+      "page_end": 28,
+      "work_title": "Five Great Novels (incl. Three Stigmata)",
+      "work_slug": "five-great-novels-incl-three-stigmata",
+      "work_id": "PKD-WRK-1965-5NOVELS"
+    }
+  ]
+}

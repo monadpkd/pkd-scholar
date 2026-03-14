@@ -1,0 +1,720 @@
+{
+  "work_id": "PKD-WRK-1972-ANDROHUM",
+  "title": "The Android and the Human",
+  "slug": "the-android-and-the-human",
+  "work_type": "essay",
+  "source_lane": "A",
+  "author": "Philip K. Dick",
+  "year_published": 1972,
+  "page_count": 27,
+  "extraction_status": "extracted",
+  "notes": "Words: 12,644",
+  "segment_count": 27,
+  "total_word_count": 12644,
+  "segments": [
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0001",
+      "title": "The Android and the Human \u2014 Page 1",
+      "segment_type": "page",
+      "position": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "word_count": 434
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0002",
+      "title": "The Android and the Human \u2014 Page 2",
+      "segment_type": "page",
+      "position": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "word_count": 455
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0003",
+      "title": "The Android and the Human \u2014 Page 3",
+      "segment_type": "page",
+      "position": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "word_count": 492
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0004",
+      "title": "The Android and the Human \u2014 Page 4",
+      "segment_type": "page",
+      "position": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 505
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0005",
+      "title": "The Android and the Human \u2014 Page 5",
+      "segment_type": "page",
+      "position": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 459
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0006",
+      "title": "The Android and the Human \u2014 Page 6",
+      "segment_type": "page",
+      "position": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 501
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0007",
+      "title": "The Android and the Human \u2014 Page 7",
+      "segment_type": "page",
+      "position": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 505
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0008",
+      "title": "The Android and the Human \u2014 Page 8",
+      "segment_type": "page",
+      "position": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 521
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0009",
+      "title": "The Android and the Human \u2014 Page 9",
+      "segment_type": "page",
+      "position": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 494
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0010",
+      "title": "The Android and the Human \u2014 Page 10",
+      "segment_type": "page",
+      "position": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "word_count": 469
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0011",
+      "title": "The Android and the Human \u2014 Page 11",
+      "segment_type": "page",
+      "position": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "word_count": 428
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0012",
+      "title": "The Android and the Human \u2014 Page 12",
+      "segment_type": "page",
+      "position": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "word_count": 523
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0013",
+      "title": "The Android and the Human \u2014 Page 13",
+      "segment_type": "page",
+      "position": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "word_count": 439
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0014",
+      "title": "The Android and the Human \u2014 Page 14",
+      "segment_type": "page",
+      "position": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "word_count": 507
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0015",
+      "title": "The Android and the Human \u2014 Page 15",
+      "segment_type": "page",
+      "position": 15,
+      "page_start": 15,
+      "page_end": 15,
+      "word_count": 526
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0016",
+      "title": "The Android and the Human \u2014 Page 16",
+      "segment_type": "page",
+      "position": 16,
+      "page_start": 16,
+      "page_end": 16,
+      "word_count": 513
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0017",
+      "title": "The Android and the Human \u2014 Page 17",
+      "segment_type": "page",
+      "position": 17,
+      "page_start": 17,
+      "page_end": 17,
+      "word_count": 444
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0018",
+      "title": "The Android and the Human \u2014 Page 18",
+      "segment_type": "page",
+      "position": 18,
+      "page_start": 18,
+      "page_end": 18,
+      "word_count": 447
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0019",
+      "title": "The Android and the Human \u2014 Page 19",
+      "segment_type": "page",
+      "position": 19,
+      "page_start": 19,
+      "page_end": 19,
+      "word_count": 512
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0020",
+      "title": "The Android and the Human \u2014 Page 20",
+      "segment_type": "page",
+      "position": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "word_count": 476
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0021",
+      "title": "The Android and the Human \u2014 Page 21",
+      "segment_type": "page",
+      "position": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "word_count": 573
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0022",
+      "title": "The Android and the Human \u2014 Page 22",
+      "segment_type": "page",
+      "position": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "word_count": 529
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0023",
+      "title": "The Android and the Human \u2014 Page 23",
+      "segment_type": "page",
+      "position": 23,
+      "page_start": 23,
+      "page_end": 23,
+      "word_count": 460
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0024",
+      "title": "The Android and the Human \u2014 Page 24",
+      "segment_type": "page",
+      "position": 24,
+      "page_start": 24,
+      "page_end": 24,
+      "word_count": 467
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0025",
+      "title": "The Android and the Human \u2014 Page 25",
+      "segment_type": "page",
+      "position": 25,
+      "page_start": 25,
+      "page_end": 25,
+      "word_count": 476
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0026",
+      "title": "The Android and the Human \u2014 Page 26",
+      "segment_type": "page",
+      "position": 26,
+      "page_start": 26,
+      "page_end": 26,
+      "word_count": 458
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0027",
+      "title": "The Android and the Human \u2014 Page 27",
+      "segment_type": "page",
+      "position": 27,
+      "page_start": 27,
+      "page_end": 27,
+      "word_count": 31
+    }
+  ],
+  "topics": [
+    {
+      "topic_id": "PKD-MET-DEAD",
+      "canonical_name": "dead",
+      "slug": "dead",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "central",
+      "match_count": 10
+    },
+    {
+      "topic_id": "PKD-MET-GOD",
+      "canonical_name": "God",
+      "slug": "god",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "central",
+      "match_count": 9
+    },
+    {
+      "topic_id": "PKD-AIT-CONTROL",
+      "canonical_name": "control",
+      "slug": "control",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 8
+    },
+    {
+      "topic_id": "PKD-AIT-ANDROID",
+      "canonical_name": "android",
+      "slug": "android",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "artificial_intelligence",
+      "relevance": "central",
+      "match_count": 8
+    },
+    {
+      "topic_id": "PKD-AIT-POLICE",
+      "canonical_name": "police",
+      "slug": "police",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 7
+    },
+    {
+      "topic_id": "PKD-AIT-ELECTRONIC",
+      "canonical_name": "electronic",
+      "slug": "electronic",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "central",
+      "match_count": 7
+    },
+    {
+      "topic_id": "PKD-AIT-POWER",
+      "canonical_name": "power",
+      "slug": "power",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 7
+    },
+    {
+      "topic_id": "PKD-PSY-FEAR",
+      "canonical_name": "fear",
+      "slug": "fear",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "significant",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-MET-REALITY",
+      "canonical_name": "reality",
+      "slug": "reality",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-MET-DRUGS",
+      "canonical_name": "drugs",
+      "slug": "drugs",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "central",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-AIT-MACHINE",
+      "canonical_name": "machine",
+      "slug": "machine",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "central",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-MET-AUTHENTIC",
+      "canonical_name": "authentic",
+      "slug": "authentic",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-AIT-STATE",
+      "canonical_name": "state",
+      "slug": "state",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "significant",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-GOVERNMENT",
+      "canonical_name": "government",
+      "slug": "government",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-COMPUTER",
+      "canonical_name": "computer",
+      "slug": "computer",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "significant",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-CIRCUIT",
+      "canonical_name": "circuit",
+      "slug": "circuit",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-PSY-SELF",
+      "canonical_name": "self",
+      "slug": "self",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-PAY",
+      "canonical_name": "pay",
+      "slug": "pay",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-AIT-DOOR",
+      "canonical_name": "door",
+      "slug": "door",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-DEATH",
+      "canonical_name": "death",
+      "slug": "death",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-PSY-REMEMBER",
+      "canonical_name": "remember",
+      "slug": "remember",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-DYING",
+      "canonical_name": "dying",
+      "slug": "dying",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "significant",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-SOUL",
+      "canonical_name": "soul",
+      "slug": "soul",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-AIT-WAR",
+      "canonical_name": "war",
+      "slug": "war",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-AIT-PROPERTY",
+      "canonical_name": "property",
+      "slug": "property",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-SPIRIT",
+      "canonical_name": "spirit",
+      "slug": "spirit",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "significant",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-AIT-CREDIT",
+      "canonical_name": "credit",
+      "slug": "credit",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-ROBOT",
+      "canonical_name": "robot",
+      "slug": "robot",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "significant",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-DRUG",
+      "canonical_name": "drug",
+      "slug": "drug",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "significant",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-FORGOT",
+      "canonical_name": "forgot",
+      "slug": "forgot",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-FACTORY",
+      "canonical_name": "factory",
+      "slug": "factory",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-LABOR",
+      "canonical_name": "labor",
+      "slug": "labor",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-PARANOIA",
+      "canonical_name": "paranoia",
+      "slug": "paranoia",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-ALIVE",
+      "canonical_name": "alive",
+      "slug": "alive",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-TYRANNY",
+      "canonical_name": "tyranny",
+      "slug": "tyranny",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-DIVINE",
+      "canonical_name": "divine",
+      "slug": "divine",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-TOTALITARIAN",
+      "canonical_name": "totalitarian",
+      "slug": "totalitarian",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-FASCIST",
+      "canonical_name": "fascist",
+      "slug": "fascist",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-LOCKED",
+      "canonical_name": "locked",
+      "slug": "locked",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-PARANOID",
+      "canonical_name": "paranoid",
+      "slug": "paranoid",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "significant",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-MARKET",
+      "canonical_name": "market",
+      "slug": "market",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-FAKE",
+      "canonical_name": "fake",
+      "slug": "fake",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-MONEY",
+      "canonical_name": "money",
+      "slug": "money",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-LABEL",
+      "canonical_name": "label",
+      "slug": "label",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-TRANSISTOR",
+      "canonical_name": "transistor",
+      "slug": "transistor",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-PSYCHOTIC",
+      "canonical_name": "psychotic",
+      "slug": "psychotic",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-ILLUSION",
+      "canonical_name": "illusion",
+      "slug": "illusion",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-GRAVE",
+      "canonical_name": "grave",
+      "slug": "grave",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-MECHANISM",
+      "canonical_name": "mechanism",
+      "slug": "mechanism",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-ANXIETY",
+      "canonical_name": "anxiety",
+      "slug": "anxiety",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-COUNTERFEIT",
+      "canonical_name": "counterfeit",
+      "slug": "counterfeit",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ]
+}

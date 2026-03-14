@@ -1,0 +1,102 @@
+{
+  "topic_id": "PKD-AIT-ARTIFICIALIN",
+  "canonical_name": "artificial intelligence",
+  "slug": "artificial-intelligence",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "core_concepts",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 5,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1981-VALISTRI",
+      "title": "The VALIS Trilogy",
+      "slug": "the-valis-trilogy",
+      "year_published": 1981,
+      "relevance": "significant",
+      "match_count": 4
+    },
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0930",
+      "match_type": "exact_text",
+      "matched_text": "Artificial Intelligence",
+      "context_window": "... battleground between Ormazd and\nhis eternal opponent, Ahriman.\nAI Voice: Artificial Intelligence Voice, sometimes called \"Voice\" or \"Spirit.\"\nA term coined by Dick for...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 930",
+      "segment_type": "page",
+      "position": 930,
+      "page_start": 930,
+      "page_end": 930,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0144",
+      "match_type": "exact_text",
+      "matched_text": "artificial intelligence",
+      "context_window": "... voice. Neither male nor female. Yes, it does sound as if it\u2019s an\nartificial intelligence.\u201d\n\u201cThat\u2019s the inter-system communications network,\u201d Mini said. \u201cIt...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 144",
+      "segment_type": "page",
+      "position": 144,
+      "page_start": 144,
+      "page_end": 144,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0152",
+      "match_type": "exact_text",
+      "matched_text": "artificial intelligence",
+      "context_window": " his wheelchair\nMini rolled along sedately.\n\u201cAn AI system,\u201d Eric said. \u201cAn artificial intelligence.\u201d\n\u201cA terminal of VALIS,\u201d Kevin said. \u201cAn input, output terminal of the...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 152",
+      "segment_type": "page",
+      "position": 152,
+      "page_start": 152,
+      "page_end": 152,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0238",
+      "match_type": "exact_text",
+      "matched_text": "artificial intelligence",
+      "context_window": "... Big Noodle, the AI System that processed Earth\u2019s\ninformation, the vast artificial intelligence on which the government relied.\nBig Noodle, after analyzing the data,...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 238",
+      "segment_type": "page",
+      "position": 238,
+      "page_start": 238,
+      "page_end": 238,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0251",
+      "match_type": "exact_text",
+      "matched_text": "Artificial Intelligence",
+      "context_window": " secret activity: he had been\nfeeding St. Anselm\u2019s Proslogion to the great Artificial Intelligence system\nBig Noodle with the idea of resurrecting the long-discredited...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 251",
+      "segment_type": "page",
+      "position": 251,
+      "page_start": 251,
+      "page_end": 251,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    }
+  ]
+}

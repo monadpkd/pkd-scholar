@@ -1,0 +1,52 @@
+{
+  "topic_id": "PKD-AIT-CURRENCY",
+  "canonical_name": "currency",
+  "slug": "currency",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "economic_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 2,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1969-UBIK",
+      "title": "Ubik",
+      "slug": "ubik",
+      "year_published": 1969,
+      "relevance": "mentioned",
+      "match_count": 2
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-UBIK-P0090",
+      "match_type": "exact_text",
+      "matched_text": "currency",
+      "context_window": "... as the \nphone had, in disgust. \u201cTake these bills.\u201d He handed the \npaper currency to Joe. \u201cThere\u2019s enough there for the hotel \nroom for one night, dinner...",
+      "seg_title": "Ubik \u2014 Page 90",
+      "segment_type": "page",
+      "position": 90,
+      "page_start": 90,
+      "page_end": 90,
+      "work_title": "Ubik",
+      "work_slug": "ubik",
+      "work_id": "PKD-WRK-1969-UBIK"
+    },
+    {
+      "seg_id": "PKD-SEG-UBIK-P0108",
+      "match_type": "exact_text",
+      "matched_text": "currency",
+      "context_window": "... I\u2019m going to see if a store \npicked at random will accept Runciter currency.\u201d \n     \u201cBuy me some new cigarettes,\u201d Joe said. \n     \u201cOkay. I\u2019ll do that...",
+      "seg_title": "Ubik \u2014 Page 108",
+      "segment_type": "page",
+      "position": 108,
+      "page_start": 108,
+      "page_end": 108,
+      "work_title": "Ubik",
+      "work_slug": "ubik",
+      "work_id": "PKD-WRK-1969-UBIK"
+    }
+  ]
+}

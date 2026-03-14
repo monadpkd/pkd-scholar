@@ -1,0 +1,52 @@
+{
+  "topic_id": "PKD-MET-LAYOUT",
+  "canonical_name": "layout",
+  "slug": "layout",
+  "topic_family": "metaphysics",
+  "topic_subfamily": "altered_states",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 2,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1965-5NOVELS",
+      "title": "Five Great Novels (incl. Three Stigmata)",
+      "slug": "five-great-novels-incl-three-stigmata",
+      "year_published": 1965,
+      "relevance": "mentioned",
+      "match_count": 2
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0030",
+      "match_type": "exact_text",
+      "matched_text": "layout",
+      "context_window": "... suggested that even\nthough a sole source existed, it had a diversified layout,\nprobably a series of labs in several key areas, perhaps one\nnear each...",
+      "seg_title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 30",
+      "segment_type": "page",
+      "position": 30,
+      "page_start": 30,
+      "page_end": 30,
+      "work_title": "Five Great Novels (incl. Three Stigmata)",
+      "work_slug": "five-great-novels-incl-three-stigmata",
+      "work_id": "PKD-WRK-1965-5NOVELS"
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0085",
+      "match_type": "exact_text",
+      "matched_text": "layout",
+      "context_window": " would not know until he talked to Hank and Hank\ngave him a proof-positive layout of the monitors and where\ntheir storage drums could be serviced. And...",
+      "seg_title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 85",
+      "segment_type": "page",
+      "position": 85,
+      "page_start": 85,
+      "page_end": 85,
+      "work_title": "Five Great Novels (incl. Three Stigmata)",
+      "work_slug": "five-great-novels-incl-three-stigmata",
+      "work_id": "PKD-WRK-1965-5NOVELS"
+    }
+  ]
+}

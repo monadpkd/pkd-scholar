@@ -1,0 +1,27 @@
+{
+  "topic_id": "PKD-AIT-SURVEILLANCE",
+  "canonical_name": "Surveillance Apparatus",
+  "slug": "surveillance-apparatus",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "machine_role",
+  "definition": "Monitoring, tracking, and compliance enforcement systems",
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 0,
+  "aliases": [
+    {
+      "alias": "behavior tracking",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "compliance monitoring",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "identity verification",
+      "alias_type": "related_term"
+    }
+  ],
+  "matched_works": [],
+  "matched_segments": []
+}

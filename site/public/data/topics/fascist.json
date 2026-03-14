@@ -1,0 +1,146 @@
+{
+  "topic_id": "PKD-AIT-FASCIST",
+  "canonical_name": "fascist",
+  "slug": "fascist",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "political_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 7,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "work_id": "PKD-WRK-1965-5NOVELS",
+      "title": "Five Great Novels (incl. Three Stigmata)",
+      "slug": "five-great-novels-incl-three-stigmata",
+      "year_published": 1965,
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "work_id": "PKD-WRK-1972-ANDROHUM",
+      "title": "The Android and the Human",
+      "slug": "the-android-and-the-human",
+      "year_published": 1972,
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "work_id": "PKD-WRK-1981-VALISTRI",
+      "title": "The VALIS Trilogy",
+      "slug": "the-valis-trilogy",
+      "year_published": 1981,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0010",
+      "match_type": "exact_text",
+      "matched_text": "fascist",
+      "context_window": "... the station house and shoot me\nthere, out of sight.\"\nTo survive in this fascist police state, he thought, you gotta\nalways be able to come up with a...",
+      "seg_title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 10",
+      "segment_type": "page",
+      "position": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "work_title": "Five Great Novels (incl. Three Stigmata)",
+      "work_slug": "five-great-novels-incl-three-stigmata",
+      "work_id": "PKD-WRK-1965-5NOVELS"
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0023",
+      "match_type": "exact_text",
+      "matched_text": "Fascist",
+      "context_window": "... \u00a0authoritarian\t\r \u00a0societies,\t\r \u00a0from\t\r \u00a0Sparta\t\r \u00a0to\t\r \u00a0\nRome\t\r \u00a0to\t\r \u00a0Fascist\t\r \u00a0Italy\t\r \u00a0and\t\r \u00a0Japan\t\r \u00a0and\t\r \u00a0Germany\t\r \u00a0and\t\r \u00a0the\t\r \u00a0USSR.\t\r...",
+      "seg_title": "The Android and the Human \u2014 Page 23",
+      "segment_type": "page",
+      "position": 23,
+      "page_start": 23,
+      "page_end": 23,
+      "work_title": "The Android and the Human",
+      "work_slug": "the-android-and-the-human",
+      "work_id": "PKD-WRK-1972-ANDROHUM"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0282",
+      "match_type": "exact_text",
+      "matched_text": "Fascist",
+      "context_window": "... 3 worlds; there are 4:\n \n(1) The black iron prison (Rome/USSR/Fascist USA)\n(2) This our normal world.\n(3) The Garden world.\n(4) The experience...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 282",
+      "segment_type": "page",
+      "position": 282,
+      "page_start": 282,
+      "page_end": 282,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0375",
+      "match_type": "exact_text",
+      "matched_text": "fascist",
+      "context_window": "... you (in all his mundane polyforms).\nBoth communist and capitalist (and fascist) societies\u2014and theocracies\u2014\nteach this. It's called theodicy. It's...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 375",
+      "segment_type": "page",
+      "position": 375,
+      "page_start": 375,
+      "page_end": 375,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0839",
+      "match_type": "exact_text",
+      "matched_text": "fascist",
+      "context_window": "... secret good shining almost invisibly\nfrom beneath this defeat, these fascist power fantasies they've made it into.\nEvil has served good; evil appears...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 839",
+      "segment_type": "page",
+      "position": 839,
+      "page_start": 839,
+      "page_end": 839,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0978",
+      "match_type": "exact_text",
+      "matched_text": "fascist",
+      "context_window": "... station house and shoot me there, out of sight.\"\nTo survive in this fascist police state, he thought, you gotta always be able\nto come up with a...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 978",
+      "segment_type": "page",
+      "position": 978,
+      "page_start": 978,
+      "page_end": 978,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0015",
+      "match_type": "exact_text",
+      "matched_text": "fascist",
+      "context_window": "... asked.\nBob said, \u201cIt\u2019s a technique to break down the personality. It\u2019s a fascist\ntherapy that makes the person totally outer-directed and dependent on...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 15",
+      "segment_type": "page",
+      "position": 15,
+      "page_start": 15,
+      "page_end": 15,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    }
+  ]
+}

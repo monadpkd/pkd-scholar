@@ -1,0 +1,96 @@
+{
+  "topic_id": "PKD-AIT-ECONOMY",
+  "canonical_name": "economy",
+  "slug": "economy",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "economic_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 4,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1965-5NOVELS",
+      "title": "Five Great Novels (incl. Three Stigmata)",
+      "slug": "five-great-novels-incl-three-stigmata",
+      "year_published": 1965,
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "work_id": "PKD-WRK-1981-VALISTRI",
+      "title": "The VALIS Trilogy",
+      "slug": "the-valis-trilogy",
+      "year_published": 1981,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0031",
+      "match_type": "exact_text",
+      "matched_text": "economy",
+      "context_window": "... could still be recognizable as a dope deal. A certain\ngovernmental economy came into play here--it wasn't worth\ngoing through the hassle of...",
+      "seg_title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 31",
+      "segment_type": "page",
+      "position": 31,
+      "page_start": 31,
+      "page_end": 31,
+      "work_title": "Five Great Novels (incl. Three Stigmata)",
+      "work_slug": "five-great-novels-incl-three-stigmata",
+      "work_id": "PKD-WRK-1965-5NOVELS"
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0052",
+      "match_type": "exact_text",
+      "matched_text": "economy",
+      "context_window": "... into him whether he liked it or\nnot. This change in him as Fred was an economy of the\npassions. Firemen and doctors and morticians did the same\ntrip in...",
+      "seg_title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 52",
+      "segment_type": "page",
+      "position": 52,
+      "page_start": 52,
+      "page_end": 52,
+      "work_title": "Five Great Novels (incl. Three Stigmata)",
+      "work_slug": "five-great-novels-incl-three-stigmata",
+      "work_id": "PKD-WRK-1965-5NOVELS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0173",
+      "match_type": "exact_text",
+      "matched_text": "economy",
+      "context_window": "... along were stuck here and there at very early strategic\npoints. The economy of these would be beautiful, since one would simply\nwork backward from...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 173",
+      "segment_type": "page",
+      "position": 173,
+      "page_start": 173,
+      "page_end": 173,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0497",
+      "match_type": "exact_text",
+      "matched_text": "economy",
+      "context_window": "... but even the nonsense had a sort of utility in the larger economy of\nTim\u2019s life. Tim did not wish to be bound by the formal strictures of...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 497",
+      "segment_type": "page",
+      "position": 497,
+      "page_start": 497,
+      "page_end": 497,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "topic_id": "PKD-AIT-THINKINGMACH",
+  "canonical_name": "thinking machine",
+  "slug": "thinking-machine",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "artificial_intelligence",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 2,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 2
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0492",
+      "match_type": "exact_text",
+      "matched_text": "thinking machine",
+      "context_window": "... human. The energy mind is the\nmind of all of them in a computer\u2014i.e., a thinking machine: inorganic: built.\nWhat I saw vis-\u00e0-vis Valis is it (the info...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 492",
+      "segment_type": "page",
+      "position": 492,
+      "page_start": 492,
+      "page_end": 492,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0615",
+      "match_type": "exact_text",
+      "matched_text": "thinking machine",
+      "context_window": " of these accretions could be viewed as a\nlearning process by some kind of thinking machine, during which it stores its\nexperiences in its memory, reticulates and...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 615",
+      "segment_type": "page",
+      "position": 615,
+      "page_start": 615,
+      "page_end": 615,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

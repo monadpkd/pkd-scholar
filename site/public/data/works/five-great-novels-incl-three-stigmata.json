@@ -1,0 +1,2844 @@
+{
+  "work_id": "PKD-WRK-1965-5NOVELS",
+  "title": "Five Great Novels (incl. Three Stigmata)",
+  "slug": "five-great-novels-incl-three-stigmata",
+  "work_type": "novel",
+  "source_lane": "A",
+  "author": "Philip K. Dick",
+  "year_published": 1965,
+  "page_count": 234,
+  "extraction_status": "extracted",
+  "notes": "Words: 85,481",
+  "segment_count": 233,
+  "total_word_count": 85481,
+  "segments": [
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0002",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 2",
+      "segment_type": "page",
+      "position": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "word_count": 9
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0003",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 3",
+      "segment_type": "page",
+      "position": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "word_count": 25
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0004",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 4",
+      "segment_type": "page",
+      "position": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "word_count": 103
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0005",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 5",
+      "segment_type": "page",
+      "position": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "word_count": 395
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0006",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 6",
+      "segment_type": "page",
+      "position": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "word_count": 426
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0007",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 7",
+      "segment_type": "page",
+      "position": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "word_count": 414
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0008",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 8",
+      "segment_type": "page",
+      "position": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "word_count": 355
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0009",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 9",
+      "segment_type": "page",
+      "position": 9,
+      "page_start": 9,
+      "page_end": 9,
+      "word_count": 395
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0010",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 10",
+      "segment_type": "page",
+      "position": 10,
+      "page_start": 10,
+      "page_end": 10,
+      "word_count": 400
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0011",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 11",
+      "segment_type": "page",
+      "position": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "word_count": 436
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0012",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 12",
+      "segment_type": "page",
+      "position": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "word_count": 418
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0013",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 13",
+      "segment_type": "page",
+      "position": 13,
+      "page_start": 13,
+      "page_end": 13,
+      "word_count": 415
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0014",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 14",
+      "segment_type": "page",
+      "position": 14,
+      "page_start": 14,
+      "page_end": 14,
+      "word_count": 323
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0015",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 15",
+      "segment_type": "page",
+      "position": 15,
+      "page_start": 15,
+      "page_end": 15,
+      "word_count": 433
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0016",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 16",
+      "segment_type": "page",
+      "position": 16,
+      "page_start": 16,
+      "page_end": 16,
+      "word_count": 374
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0017",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 17",
+      "segment_type": "page",
+      "position": 17,
+      "page_start": 17,
+      "page_end": 17,
+      "word_count": 435
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0018",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 18",
+      "segment_type": "page",
+      "position": 18,
+      "page_start": 18,
+      "page_end": 18,
+      "word_count": 415
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0019",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 19",
+      "segment_type": "page",
+      "position": 19,
+      "page_start": 19,
+      "page_end": 19,
+      "word_count": 257
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0020",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 20",
+      "segment_type": "page",
+      "position": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "word_count": 358
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0021",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 21",
+      "segment_type": "page",
+      "position": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "word_count": 366
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0022",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 22",
+      "segment_type": "page",
+      "position": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "word_count": 378
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0023",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 23",
+      "segment_type": "page",
+      "position": 23,
+      "page_start": 23,
+      "page_end": 23,
+      "word_count": 422
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0024",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 24",
+      "segment_type": "page",
+      "position": 24,
+      "page_start": 24,
+      "page_end": 24,
+      "word_count": 390
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0025",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 25",
+      "segment_type": "page",
+      "position": 25,
+      "page_start": 25,
+      "page_end": 25,
+      "word_count": 411
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0026",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 26",
+      "segment_type": "page",
+      "position": 26,
+      "page_start": 26,
+      "page_end": 26,
+      "word_count": 429
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0027",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 27",
+      "segment_type": "page",
+      "position": 27,
+      "page_start": 27,
+      "page_end": 27,
+      "word_count": 419
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0028",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 28",
+      "segment_type": "page",
+      "position": 28,
+      "page_start": 28,
+      "page_end": 28,
+      "word_count": 427
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0029",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 29",
+      "segment_type": "page",
+      "position": 29,
+      "page_start": 29,
+      "page_end": 29,
+      "word_count": 418
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0030",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 30",
+      "segment_type": "page",
+      "position": 30,
+      "page_start": 30,
+      "page_end": 30,
+      "word_count": 403
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0031",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 31",
+      "segment_type": "page",
+      "position": 31,
+      "page_start": 31,
+      "page_end": 31,
+      "word_count": 365
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0032",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 32",
+      "segment_type": "page",
+      "position": 32,
+      "page_start": 32,
+      "page_end": 32,
+      "word_count": 321
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0033",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 33",
+      "segment_type": "page",
+      "position": 33,
+      "page_start": 33,
+      "page_end": 33,
+      "word_count": 122
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0034",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 34",
+      "segment_type": "page",
+      "position": 34,
+      "page_start": 34,
+      "page_end": 34,
+      "word_count": 346
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0035",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 35",
+      "segment_type": "page",
+      "position": 35,
+      "page_start": 35,
+      "page_end": 35,
+      "word_count": 320
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0036",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 36",
+      "segment_type": "page",
+      "position": 36,
+      "page_start": 36,
+      "page_end": 36,
+      "word_count": 343
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0037",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 37",
+      "segment_type": "page",
+      "position": 37,
+      "page_start": 37,
+      "page_end": 37,
+      "word_count": 371
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0038",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 38",
+      "segment_type": "page",
+      "position": 38,
+      "page_start": 38,
+      "page_end": 38,
+      "word_count": 386
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0039",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 39",
+      "segment_type": "page",
+      "position": 39,
+      "page_start": 39,
+      "page_end": 39,
+      "word_count": 404
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0040",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 40",
+      "segment_type": "page",
+      "position": 40,
+      "page_start": 40,
+      "page_end": 40,
+      "word_count": 347
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0041",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 41",
+      "segment_type": "page",
+      "position": 41,
+      "page_start": 41,
+      "page_end": 41,
+      "word_count": 403
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0042",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 42",
+      "segment_type": "page",
+      "position": 42,
+      "page_start": 42,
+      "page_end": 42,
+      "word_count": 389
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0043",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 43",
+      "segment_type": "page",
+      "position": 43,
+      "page_start": 43,
+      "page_end": 43,
+      "word_count": 403
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0044",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 44",
+      "segment_type": "page",
+      "position": 44,
+      "page_start": 44,
+      "page_end": 44,
+      "word_count": 415
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0045",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 45",
+      "segment_type": "page",
+      "position": 45,
+      "page_start": 45,
+      "page_end": 45,
+      "word_count": 355
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0046",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 46",
+      "segment_type": "page",
+      "position": 46,
+      "page_start": 46,
+      "page_end": 46,
+      "word_count": 359
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0047",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 47",
+      "segment_type": "page",
+      "position": 47,
+      "page_start": 47,
+      "page_end": 47,
+      "word_count": 407
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0048",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 48",
+      "segment_type": "page",
+      "position": 48,
+      "page_start": 48,
+      "page_end": 48,
+      "word_count": 45
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0049",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 49",
+      "segment_type": "page",
+      "position": 49,
+      "page_start": 49,
+      "page_end": 49,
+      "word_count": 296
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0050",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 50",
+      "segment_type": "page",
+      "position": 50,
+      "page_start": 50,
+      "page_end": 50,
+      "word_count": 364
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0051",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 51",
+      "segment_type": "page",
+      "position": 51,
+      "page_start": 51,
+      "page_end": 51,
+      "word_count": 392
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0052",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 52",
+      "segment_type": "page",
+      "position": 52,
+      "page_start": 52,
+      "page_end": 52,
+      "word_count": 415
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0053",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 53",
+      "segment_type": "page",
+      "position": 53,
+      "page_start": 53,
+      "page_end": 53,
+      "word_count": 366
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0054",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 54",
+      "segment_type": "page",
+      "position": 54,
+      "page_start": 54,
+      "page_end": 54,
+      "word_count": 327
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0055",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 55",
+      "segment_type": "page",
+      "position": 55,
+      "page_start": 55,
+      "page_end": 55,
+      "word_count": 370
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0056",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 56",
+      "segment_type": "page",
+      "position": 56,
+      "page_start": 56,
+      "page_end": 56,
+      "word_count": 368
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0057",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 57",
+      "segment_type": "page",
+      "position": 57,
+      "page_start": 57,
+      "page_end": 57,
+      "word_count": 427
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0058",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 58",
+      "segment_type": "page",
+      "position": 58,
+      "page_start": 58,
+      "page_end": 58,
+      "word_count": 414
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0059",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 59",
+      "segment_type": "page",
+      "position": 59,
+      "page_start": 59,
+      "page_end": 59,
+      "word_count": 407
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0060",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 60",
+      "segment_type": "page",
+      "position": 60,
+      "page_start": 60,
+      "page_end": 60,
+      "word_count": 391
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0061",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 61",
+      "segment_type": "page",
+      "position": 61,
+      "page_start": 61,
+      "page_end": 61,
+      "word_count": 433
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0062",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 62",
+      "segment_type": "page",
+      "position": 62,
+      "page_start": 62,
+      "page_end": 62,
+      "word_count": 383
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0063",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 63",
+      "segment_type": "page",
+      "position": 63,
+      "page_start": 63,
+      "page_end": 63,
+      "word_count": 314
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0064",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 64",
+      "segment_type": "page",
+      "position": 64,
+      "page_start": 64,
+      "page_end": 64,
+      "word_count": 406
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0065",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 65",
+      "segment_type": "page",
+      "position": 65,
+      "page_start": 65,
+      "page_end": 65,
+      "word_count": 432
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0066",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 66",
+      "segment_type": "page",
+      "position": 66,
+      "page_start": 66,
+      "page_end": 66,
+      "word_count": 380
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0067",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 67",
+      "segment_type": "page",
+      "position": 67,
+      "page_start": 67,
+      "page_end": 67,
+      "word_count": 292
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0068",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 68",
+      "segment_type": "page",
+      "position": 68,
+      "page_start": 68,
+      "page_end": 68,
+      "word_count": 395
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0069",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 69",
+      "segment_type": "page",
+      "position": 69,
+      "page_start": 69,
+      "page_end": 69,
+      "word_count": 379
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0070",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 70",
+      "segment_type": "page",
+      "position": 70,
+      "page_start": 70,
+      "page_end": 70,
+      "word_count": 396
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0071",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 71",
+      "segment_type": "page",
+      "position": 71,
+      "page_start": 71,
+      "page_end": 71,
+      "word_count": 390
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0072",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 72",
+      "segment_type": "page",
+      "position": 72,
+      "page_start": 72,
+      "page_end": 72,
+      "word_count": 398
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0073",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 73",
+      "segment_type": "page",
+      "position": 73,
+      "page_start": 73,
+      "page_end": 73,
+      "word_count": 393
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0074",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 74",
+      "segment_type": "page",
+      "position": 74,
+      "page_start": 74,
+      "page_end": 74,
+      "word_count": 368
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0075",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 75",
+      "segment_type": "page",
+      "position": 75,
+      "page_start": 75,
+      "page_end": 75,
+      "word_count": 267
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0076",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 76",
+      "segment_type": "page",
+      "position": 76,
+      "page_start": 76,
+      "page_end": 76,
+      "word_count": 409
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0077",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 77",
+      "segment_type": "page",
+      "position": 77,
+      "page_start": 77,
+      "page_end": 77,
+      "word_count": 420
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0078",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 78",
+      "segment_type": "page",
+      "position": 78,
+      "page_start": 78,
+      "page_end": 78,
+      "word_count": 391
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0079",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 79",
+      "segment_type": "page",
+      "position": 79,
+      "page_start": 79,
+      "page_end": 79,
+      "word_count": 366
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0080",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 80",
+      "segment_type": "page",
+      "position": 80,
+      "page_start": 80,
+      "page_end": 80,
+      "word_count": 424
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0081",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 81",
+      "segment_type": "page",
+      "position": 81,
+      "page_start": 81,
+      "page_end": 81,
+      "word_count": 399
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0082",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 82",
+      "segment_type": "page",
+      "position": 82,
+      "page_start": 82,
+      "page_end": 82,
+      "word_count": 372
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0083",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 83",
+      "segment_type": "page",
+      "position": 83,
+      "page_start": 83,
+      "page_end": 83,
+      "word_count": 405
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0084",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 84",
+      "segment_type": "page",
+      "position": 84,
+      "page_start": 84,
+      "page_end": 84,
+      "word_count": 395
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0085",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 85",
+      "segment_type": "page",
+      "position": 85,
+      "page_start": 85,
+      "page_end": 85,
+      "word_count": 404
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0086",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 86",
+      "segment_type": "page",
+      "position": 86,
+      "page_start": 86,
+      "page_end": 86,
+      "word_count": 373
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0087",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 87",
+      "segment_type": "page",
+      "position": 87,
+      "page_start": 87,
+      "page_end": 87,
+      "word_count": 366
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0088",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 88",
+      "segment_type": "page",
+      "position": 88,
+      "page_start": 88,
+      "page_end": 88,
+      "word_count": 357
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0089",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 89",
+      "segment_type": "page",
+      "position": 89,
+      "page_start": 89,
+      "page_end": 89,
+      "word_count": 391
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0090",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 90",
+      "segment_type": "page",
+      "position": 90,
+      "page_start": 90,
+      "page_end": 90,
+      "word_count": 277
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0091",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 91",
+      "segment_type": "page",
+      "position": 91,
+      "page_start": 91,
+      "page_end": 91,
+      "word_count": 380
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0092",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 92",
+      "segment_type": "page",
+      "position": 92,
+      "page_start": 92,
+      "page_end": 92,
+      "word_count": 371
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0093",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 93",
+      "segment_type": "page",
+      "position": 93,
+      "page_start": 93,
+      "page_end": 93,
+      "word_count": 378
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0094",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 94",
+      "segment_type": "page",
+      "position": 94,
+      "page_start": 94,
+      "page_end": 94,
+      "word_count": 358
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0095",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 95",
+      "segment_type": "page",
+      "position": 95,
+      "page_start": 95,
+      "page_end": 95,
+      "word_count": 334
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0096",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 96",
+      "segment_type": "page",
+      "position": 96,
+      "page_start": 96,
+      "page_end": 96,
+      "word_count": 389
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0097",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 97",
+      "segment_type": "page",
+      "position": 97,
+      "page_start": 97,
+      "page_end": 97,
+      "word_count": 395
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0098",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 98",
+      "segment_type": "page",
+      "position": 98,
+      "page_start": 98,
+      "page_end": 98,
+      "word_count": 327
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0099",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 99",
+      "segment_type": "page",
+      "position": 99,
+      "page_start": 99,
+      "page_end": 99,
+      "word_count": 363
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0100",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 100",
+      "segment_type": "page",
+      "position": 100,
+      "page_start": 100,
+      "page_end": 100,
+      "word_count": 358
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0101",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 101",
+      "segment_type": "page",
+      "position": 101,
+      "page_start": 101,
+      "page_end": 101,
+      "word_count": 424
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0102",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 102",
+      "segment_type": "page",
+      "position": 102,
+      "page_start": 102,
+      "page_end": 102,
+      "word_count": 427
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0103",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 103",
+      "segment_type": "page",
+      "position": 103,
+      "page_start": 103,
+      "page_end": 103,
+      "word_count": 386
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0104",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 104",
+      "segment_type": "page",
+      "position": 104,
+      "page_start": 104,
+      "page_end": 104,
+      "word_count": 371
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0105",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 105",
+      "segment_type": "page",
+      "position": 105,
+      "page_start": 105,
+      "page_end": 105,
+      "word_count": 376
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0106",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 106",
+      "segment_type": "page",
+      "position": 106,
+      "page_start": 106,
+      "page_end": 106,
+      "word_count": 201
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0107",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 107",
+      "segment_type": "page",
+      "position": 107,
+      "page_start": 107,
+      "page_end": 107,
+      "word_count": 383
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0108",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 108",
+      "segment_type": "page",
+      "position": 108,
+      "page_start": 108,
+      "page_end": 108,
+      "word_count": 336
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0109",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 109",
+      "segment_type": "page",
+      "position": 109,
+      "page_start": 109,
+      "page_end": 109,
+      "word_count": 386
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0110",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 110",
+      "segment_type": "page",
+      "position": 110,
+      "page_start": 110,
+      "page_end": 110,
+      "word_count": 344
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0111",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 111",
+      "segment_type": "page",
+      "position": 111,
+      "page_start": 111,
+      "page_end": 111,
+      "word_count": 361
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0112",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 112",
+      "segment_type": "page",
+      "position": 112,
+      "page_start": 112,
+      "page_end": 112,
+      "word_count": 371
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0113",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 113",
+      "segment_type": "page",
+      "position": 113,
+      "page_start": 113,
+      "page_end": 113,
+      "word_count": 400
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0114",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 114",
+      "segment_type": "page",
+      "position": 114,
+      "page_start": 114,
+      "page_end": 114,
+      "word_count": 393
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0115",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 115",
+      "segment_type": "page",
+      "position": 115,
+      "page_start": 115,
+      "page_end": 115,
+      "word_count": 388
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0116",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 116",
+      "segment_type": "page",
+      "position": 116,
+      "page_start": 116,
+      "page_end": 116,
+      "word_count": 417
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0117",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 117",
+      "segment_type": "page",
+      "position": 117,
+      "page_start": 117,
+      "page_end": 117,
+      "word_count": 410
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0118",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 118",
+      "segment_type": "page",
+      "position": 118,
+      "page_start": 118,
+      "page_end": 118,
+      "word_count": 382
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0119",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 119",
+      "segment_type": "page",
+      "position": 119,
+      "page_start": 119,
+      "page_end": 119,
+      "word_count": 414
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0120",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 120",
+      "segment_type": "page",
+      "position": 120,
+      "page_start": 120,
+      "page_end": 120,
+      "word_count": 411
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0121",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 121",
+      "segment_type": "page",
+      "position": 121,
+      "page_start": 121,
+      "page_end": 121,
+      "word_count": 365
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0122",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 122",
+      "segment_type": "page",
+      "position": 122,
+      "page_start": 122,
+      "page_end": 122,
+      "word_count": 400
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0123",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 123",
+      "segment_type": "page",
+      "position": 123,
+      "page_start": 123,
+      "page_end": 123,
+      "word_count": 402
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0124",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 124",
+      "segment_type": "page",
+      "position": 124,
+      "page_start": 124,
+      "page_end": 124,
+      "word_count": 355
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0125",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 125",
+      "segment_type": "page",
+      "position": 125,
+      "page_start": 125,
+      "page_end": 125,
+      "word_count": 362
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0126",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 126",
+      "segment_type": "page",
+      "position": 126,
+      "page_start": 126,
+      "page_end": 126,
+      "word_count": 374
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0127",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 127",
+      "segment_type": "page",
+      "position": 127,
+      "page_start": 127,
+      "page_end": 127,
+      "word_count": 413
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0128",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 128",
+      "segment_type": "page",
+      "position": 128,
+      "page_start": 128,
+      "page_end": 128,
+      "word_count": 357
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0129",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 129",
+      "segment_type": "page",
+      "position": 129,
+      "page_start": 129,
+      "page_end": 129,
+      "word_count": 408
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0130",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 130",
+      "segment_type": "page",
+      "position": 130,
+      "page_start": 130,
+      "page_end": 130,
+      "word_count": 410
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0131",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 131",
+      "segment_type": "page",
+      "position": 131,
+      "page_start": 131,
+      "page_end": 131,
+      "word_count": 354
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0132",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 132",
+      "segment_type": "page",
+      "position": 132,
+      "page_start": 132,
+      "page_end": 132,
+      "word_count": 336
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0133",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 133",
+      "segment_type": "page",
+      "position": 133,
+      "page_start": 133,
+      "page_end": 133,
+      "word_count": 398
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0134",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 134",
+      "segment_type": "page",
+      "position": 134,
+      "page_start": 134,
+      "page_end": 134,
+      "word_count": 390
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0135",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 135",
+      "segment_type": "page",
+      "position": 135,
+      "page_start": 135,
+      "page_end": 135,
+      "word_count": 371
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0136",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 136",
+      "segment_type": "page",
+      "position": 136,
+      "page_start": 136,
+      "page_end": 136,
+      "word_count": 407
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0137",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 137",
+      "segment_type": "page",
+      "position": 137,
+      "page_start": 137,
+      "page_end": 137,
+      "word_count": 383
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0138",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 138",
+      "segment_type": "page",
+      "position": 138,
+      "page_start": 138,
+      "page_end": 138,
+      "word_count": 396
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0139",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 139",
+      "segment_type": "page",
+      "position": 139,
+      "page_start": 139,
+      "page_end": 139,
+      "word_count": 294
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0140",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 140",
+      "segment_type": "page",
+      "position": 140,
+      "page_start": 140,
+      "page_end": 140,
+      "word_count": 332
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0141",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 141",
+      "segment_type": "page",
+      "position": 141,
+      "page_start": 141,
+      "page_end": 141,
+      "word_count": 342
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0142",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 142",
+      "segment_type": "page",
+      "position": 142,
+      "page_start": 142,
+      "page_end": 142,
+      "word_count": 375
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0143",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 143",
+      "segment_type": "page",
+      "position": 143,
+      "page_start": 143,
+      "page_end": 143,
+      "word_count": 402
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0144",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 144",
+      "segment_type": "page",
+      "position": 144,
+      "page_start": 144,
+      "page_end": 144,
+      "word_count": 398
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0145",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 145",
+      "segment_type": "page",
+      "position": 145,
+      "page_start": 145,
+      "page_end": 145,
+      "word_count": 413
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0146",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 146",
+      "segment_type": "page",
+      "position": 146,
+      "page_start": 146,
+      "page_end": 146,
+      "word_count": 435
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0147",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 147",
+      "segment_type": "page",
+      "position": 147,
+      "page_start": 147,
+      "page_end": 147,
+      "word_count": 440
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0148",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 148",
+      "segment_type": "page",
+      "position": 148,
+      "page_start": 148,
+      "page_end": 148,
+      "word_count": 404
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0149",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 149",
+      "segment_type": "page",
+      "position": 149,
+      "page_start": 149,
+      "page_end": 149,
+      "word_count": 410
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0150",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 150",
+      "segment_type": "page",
+      "position": 150,
+      "page_start": 150,
+      "page_end": 150,
+      "word_count": 331
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0151",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 151",
+      "segment_type": "page",
+      "position": 151,
+      "page_start": 151,
+      "page_end": 151,
+      "word_count": 363
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0152",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 152",
+      "segment_type": "page",
+      "position": 152,
+      "page_start": 152,
+      "page_end": 152,
+      "word_count": 430
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0153",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 153",
+      "segment_type": "page",
+      "position": 153,
+      "page_start": 153,
+      "page_end": 153,
+      "word_count": 349
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0154",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 154",
+      "segment_type": "page",
+      "position": 154,
+      "page_start": 154,
+      "page_end": 154,
+      "word_count": 423
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0155",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 155",
+      "segment_type": "page",
+      "position": 155,
+      "page_start": 155,
+      "page_end": 155,
+      "word_count": 402
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0156",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 156",
+      "segment_type": "page",
+      "position": 156,
+      "page_start": 156,
+      "page_end": 156,
+      "word_count": 396
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0157",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 157",
+      "segment_type": "page",
+      "position": 157,
+      "page_start": 157,
+      "page_end": 157,
+      "word_count": 433
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0158",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 158",
+      "segment_type": "page",
+      "position": 158,
+      "page_start": 158,
+      "page_end": 158,
+      "word_count": 410
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0159",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 159",
+      "segment_type": "page",
+      "position": 159,
+      "page_start": 159,
+      "page_end": 159,
+      "word_count": 419
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0160",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 160",
+      "segment_type": "page",
+      "position": 160,
+      "page_start": 160,
+      "page_end": 160,
+      "word_count": 385
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0161",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 161",
+      "segment_type": "page",
+      "position": 161,
+      "page_start": 161,
+      "page_end": 161,
+      "word_count": 4
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0162",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 162",
+      "segment_type": "page",
+      "position": 162,
+      "page_start": 162,
+      "page_end": 162,
+      "word_count": 398
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0163",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 163",
+      "segment_type": "page",
+      "position": 163,
+      "page_start": 163,
+      "page_end": 163,
+      "word_count": 378
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0164",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 164",
+      "segment_type": "page",
+      "position": 164,
+      "page_start": 164,
+      "page_end": 164,
+      "word_count": 334
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0165",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 165",
+      "segment_type": "page",
+      "position": 165,
+      "page_start": 165,
+      "page_end": 165,
+      "word_count": 350
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0166",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 166",
+      "segment_type": "page",
+      "position": 166,
+      "page_start": 166,
+      "page_end": 166,
+      "word_count": 364
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0167",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 167",
+      "segment_type": "page",
+      "position": 167,
+      "page_start": 167,
+      "page_end": 167,
+      "word_count": 345
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0168",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 168",
+      "segment_type": "page",
+      "position": 168,
+      "page_start": 168,
+      "page_end": 168,
+      "word_count": 403
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0169",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 169",
+      "segment_type": "page",
+      "position": 169,
+      "page_start": 169,
+      "page_end": 169,
+      "word_count": 359
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0170",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 170",
+      "segment_type": "page",
+      "position": 170,
+      "page_start": 170,
+      "page_end": 170,
+      "word_count": 406
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0171",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 171",
+      "segment_type": "page",
+      "position": 171,
+      "page_start": 171,
+      "page_end": 171,
+      "word_count": 438
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0172",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 172",
+      "segment_type": "page",
+      "position": 172,
+      "page_start": 172,
+      "page_end": 172,
+      "word_count": 384
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0173",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 173",
+      "segment_type": "page",
+      "position": 173,
+      "page_start": 173,
+      "page_end": 173,
+      "word_count": 389
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0174",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 174",
+      "segment_type": "page",
+      "position": 174,
+      "page_start": 174,
+      "page_end": 174,
+      "word_count": 395
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0175",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 175",
+      "segment_type": "page",
+      "position": 175,
+      "page_start": 175,
+      "page_end": 175,
+      "word_count": 316
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0176",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 176",
+      "segment_type": "page",
+      "position": 176,
+      "page_start": 176,
+      "page_end": 176,
+      "word_count": 325
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0177",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 177",
+      "segment_type": "page",
+      "position": 177,
+      "page_start": 177,
+      "page_end": 177,
+      "word_count": 290
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0178",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 178",
+      "segment_type": "page",
+      "position": 178,
+      "page_start": 178,
+      "page_end": 178,
+      "word_count": 356
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0179",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 179",
+      "segment_type": "page",
+      "position": 179,
+      "page_start": 179,
+      "page_end": 179,
+      "word_count": 299
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0180",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 180",
+      "segment_type": "page",
+      "position": 180,
+      "page_start": 180,
+      "page_end": 180,
+      "word_count": 360
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0181",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 181",
+      "segment_type": "page",
+      "position": 181,
+      "page_start": 181,
+      "page_end": 181,
+      "word_count": 361
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0182",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 182",
+      "segment_type": "page",
+      "position": 182,
+      "page_start": 182,
+      "page_end": 182,
+      "word_count": 396
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0183",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 183",
+      "segment_type": "page",
+      "position": 183,
+      "page_start": 183,
+      "page_end": 183,
+      "word_count": 432
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0184",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 184",
+      "segment_type": "page",
+      "position": 184,
+      "page_start": 184,
+      "page_end": 184,
+      "word_count": 324
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0185",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 185",
+      "segment_type": "page",
+      "position": 185,
+      "page_start": 185,
+      "page_end": 185,
+      "word_count": 428
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0186",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 186",
+      "segment_type": "page",
+      "position": 186,
+      "page_start": 186,
+      "page_end": 186,
+      "word_count": 429
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0187",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 187",
+      "segment_type": "page",
+      "position": 187,
+      "page_start": 187,
+      "page_end": 187,
+      "word_count": 438
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0188",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 188",
+      "segment_type": "page",
+      "position": 188,
+      "page_start": 188,
+      "page_end": 188,
+      "word_count": 327
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0189",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 189",
+      "segment_type": "page",
+      "position": 189,
+      "page_start": 189,
+      "page_end": 189,
+      "word_count": 366
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0190",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 190",
+      "segment_type": "page",
+      "position": 190,
+      "page_start": 190,
+      "page_end": 190,
+      "word_count": 326
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0191",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 191",
+      "segment_type": "page",
+      "position": 191,
+      "page_start": 191,
+      "page_end": 191,
+      "word_count": 342
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0192",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 192",
+      "segment_type": "page",
+      "position": 192,
+      "page_start": 192,
+      "page_end": 192,
+      "word_count": 306
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0193",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 193",
+      "segment_type": "page",
+      "position": 193,
+      "page_start": 193,
+      "page_end": 193,
+      "word_count": 326
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0194",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 194",
+      "segment_type": "page",
+      "position": 194,
+      "page_start": 194,
+      "page_end": 194,
+      "word_count": 401
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0195",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 195",
+      "segment_type": "page",
+      "position": 195,
+      "page_start": 195,
+      "page_end": 195,
+      "word_count": 383
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0196",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 196",
+      "segment_type": "page",
+      "position": 196,
+      "page_start": 196,
+      "page_end": 196,
+      "word_count": 427
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0197",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 197",
+      "segment_type": "page",
+      "position": 197,
+      "page_start": 197,
+      "page_end": 197,
+      "word_count": 426
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0198",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 198",
+      "segment_type": "page",
+      "position": 198,
+      "page_start": 198,
+      "page_end": 198,
+      "word_count": 400
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0199",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 199",
+      "segment_type": "page",
+      "position": 199,
+      "page_start": 199,
+      "page_end": 199,
+      "word_count": 416
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0200",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 200",
+      "segment_type": "page",
+      "position": 200,
+      "page_start": 200,
+      "page_end": 200,
+      "word_count": 401
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0201",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 201",
+      "segment_type": "page",
+      "position": 201,
+      "page_start": 201,
+      "page_end": 201,
+      "word_count": 401
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0202",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 202",
+      "segment_type": "page",
+      "position": 202,
+      "page_start": 202,
+      "page_end": 202,
+      "word_count": 238
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0203",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 203",
+      "segment_type": "page",
+      "position": 203,
+      "page_start": 203,
+      "page_end": 203,
+      "word_count": 317
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0204",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 204",
+      "segment_type": "page",
+      "position": 204,
+      "page_start": 204,
+      "page_end": 204,
+      "word_count": 340
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0205",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 205",
+      "segment_type": "page",
+      "position": 205,
+      "page_start": 205,
+      "page_end": 205,
+      "word_count": 343
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0206",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 206",
+      "segment_type": "page",
+      "position": 206,
+      "page_start": 206,
+      "page_end": 206,
+      "word_count": 373
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0207",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 207",
+      "segment_type": "page",
+      "position": 207,
+      "page_start": 207,
+      "page_end": 207,
+      "word_count": 338
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0208",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 208",
+      "segment_type": "page",
+      "position": 208,
+      "page_start": 208,
+      "page_end": 208,
+      "word_count": 335
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0209",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 209",
+      "segment_type": "page",
+      "position": 209,
+      "page_start": 209,
+      "page_end": 209,
+      "word_count": 342
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0210",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 210",
+      "segment_type": "page",
+      "position": 210,
+      "page_start": 210,
+      "page_end": 210,
+      "word_count": 391
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0211",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 211",
+      "segment_type": "page",
+      "position": 211,
+      "page_start": 211,
+      "page_end": 211,
+      "word_count": 337
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0212",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 212",
+      "segment_type": "page",
+      "position": 212,
+      "page_start": 212,
+      "page_end": 212,
+      "word_count": 343
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0213",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 213",
+      "segment_type": "page",
+      "position": 213,
+      "page_start": 213,
+      "page_end": 213,
+      "word_count": 361
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0214",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 214",
+      "segment_type": "page",
+      "position": 214,
+      "page_start": 214,
+      "page_end": 214,
+      "word_count": 378
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0215",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 215",
+      "segment_type": "page",
+      "position": 215,
+      "page_start": 215,
+      "page_end": 215,
+      "word_count": 328
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0216",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 216",
+      "segment_type": "page",
+      "position": 216,
+      "page_start": 216,
+      "page_end": 216,
+      "word_count": 389
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0217",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 217",
+      "segment_type": "page",
+      "position": 217,
+      "page_start": 217,
+      "page_end": 217,
+      "word_count": 379
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0218",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 218",
+      "segment_type": "page",
+      "position": 218,
+      "page_start": 218,
+      "page_end": 218,
+      "word_count": 407
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0219",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 219",
+      "segment_type": "page",
+      "position": 219,
+      "page_start": 219,
+      "page_end": 219,
+      "word_count": 420
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0220",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 220",
+      "segment_type": "page",
+      "position": 220,
+      "page_start": 220,
+      "page_end": 220,
+      "word_count": 390
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0221",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 221",
+      "segment_type": "page",
+      "position": 221,
+      "page_start": 221,
+      "page_end": 221,
+      "word_count": 383
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0222",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 222",
+      "segment_type": "page",
+      "position": 222,
+      "page_start": 222,
+      "page_end": 222,
+      "word_count": 368
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0223",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 223",
+      "segment_type": "page",
+      "position": 223,
+      "page_start": 223,
+      "page_end": 223,
+      "word_count": 358
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0224",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 224",
+      "segment_type": "page",
+      "position": 224,
+      "page_start": 224,
+      "page_end": 224,
+      "word_count": 371
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0225",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 225",
+      "segment_type": "page",
+      "position": 225,
+      "page_start": 225,
+      "page_end": 225,
+      "word_count": 358
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0226",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 226",
+      "segment_type": "page",
+      "position": 226,
+      "page_start": 226,
+      "page_end": 226,
+      "word_count": 397
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0227",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 227",
+      "segment_type": "page",
+      "position": 227,
+      "page_start": 227,
+      "page_end": 227,
+      "word_count": 295
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0228",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 228",
+      "segment_type": "page",
+      "position": 228,
+      "page_start": 228,
+      "page_end": 228,
+      "word_count": 354
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0229",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 229",
+      "segment_type": "page",
+      "position": 229,
+      "page_start": 229,
+      "page_end": 229,
+      "word_count": 340
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0230",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 230",
+      "segment_type": "page",
+      "position": 230,
+      "page_start": 230,
+      "page_end": 230,
+      "word_count": 363
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0231",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 231",
+      "segment_type": "page",
+      "position": 231,
+      "page_start": 231,
+      "page_end": 231,
+      "word_count": 221
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0232",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 232",
+      "segment_type": "page",
+      "position": 232,
+      "page_start": 232,
+      "page_end": 232,
+      "word_count": 415
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0233",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 233",
+      "segment_type": "page",
+      "position": 233,
+      "page_start": 233,
+      "page_end": 233,
+      "word_count": 289
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0234",
+      "title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 234",
+      "segment_type": "page",
+      "position": 234,
+      "page_start": 234,
+      "page_end": 234,
+      "word_count": 108
+    }
+  ],
+  "topics": [
+    {
+      "topic_id": "PKD-AIT-DOOR",
+      "canonical_name": "door",
+      "slug": "door",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 48
+    },
+    {
+      "topic_id": "PKD-MET-DEAD",
+      "canonical_name": "dead",
+      "slug": "dead",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "central",
+      "match_count": 30
+    },
+    {
+      "topic_id": "PKD-MET-SUBSTANCE",
+      "canonical_name": "substance",
+      "slug": "substance",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "central",
+      "match_count": 29
+    },
+    {
+      "topic_id": "PKD-AIT-POLICE",
+      "canonical_name": "police",
+      "slug": "police",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 28
+    },
+    {
+      "topic_id": "PKD-AIT-PAY",
+      "canonical_name": "pay",
+      "slug": "pay",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 25
+    },
+    {
+      "topic_id": "PKD-MET-GOD",
+      "canonical_name": "God",
+      "slug": "god",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "central",
+      "match_count": 25
+    },
+    {
+      "topic_id": "PKD-MET-DEATH",
+      "canonical_name": "death",
+      "slug": "death",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "central",
+      "match_count": 20
+    },
+    {
+      "topic_id": "PKD-PSY-REMEMBER",
+      "canonical_name": "remember",
+      "slug": "remember",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "central",
+      "match_count": 20
+    },
+    {
+      "topic_id": "PKD-AIT-MONEY",
+      "canonical_name": "money",
+      "slug": "money",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 19
+    },
+    {
+      "topic_id": "PKD-MET-DRUG",
+      "canonical_name": "drug",
+      "slug": "drug",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "central",
+      "match_count": 16
+    },
+    {
+      "topic_id": "PKD-AIT-ELECTRONIC",
+      "canonical_name": "electronic",
+      "slug": "electronic",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "central",
+      "match_count": 15
+    },
+    {
+      "topic_id": "PKD-MET-REALITY",
+      "canonical_name": "reality",
+      "slug": "reality",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "central",
+      "match_count": 13
+    },
+    {
+      "topic_id": "PKD-PSY-FEAR",
+      "canonical_name": "fear",
+      "slug": "fear",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "central",
+      "match_count": 11
+    },
+    {
+      "topic_id": "PKD-AIT-MACHINE",
+      "canonical_name": "machine",
+      "slug": "machine",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "central",
+      "match_count": 10
+    },
+    {
+      "topic_id": "PKD-AIT-LOCKED",
+      "canonical_name": "locked",
+      "slug": "locked",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "central",
+      "match_count": 9
+    },
+    {
+      "topic_id": "PKD-MET-FAKE",
+      "canonical_name": "fake",
+      "slug": "fake",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "significant",
+      "match_count": 8
+    },
+    {
+      "topic_id": "PKD-MET-DRUGS",
+      "canonical_name": "drugs",
+      "slug": "drugs",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "significant",
+      "match_count": 8
+    },
+    {
+      "topic_id": "PKD-AIT-PROFIT",
+      "canonical_name": "profit",
+      "slug": "profit",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 7
+    },
+    {
+      "topic_id": "PKD-PSY-FORGOT",
+      "canonical_name": "forgot",
+      "slug": "forgot",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "significant",
+      "match_count": 7
+    },
+    {
+      "topic_id": "PKD-AIT-STATE",
+      "canonical_name": "state",
+      "slug": "state",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "significant",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-AIT-COMPUTER",
+      "canonical_name": "computer",
+      "slug": "computer",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "significant",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-PSY-MEMORY",
+      "canonical_name": "memory",
+      "slug": "memory",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "significant",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-MET-ALIVE",
+      "canonical_name": "alive",
+      "slug": "alive",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "central",
+      "match_count": 6
+    },
+    {
+      "topic_id": "PKD-AIT-CREDIT",
+      "canonical_name": "credit",
+      "slug": "credit",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-PSY-PARANOID",
+      "canonical_name": "paranoid",
+      "slug": "paranoid",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-AIT-FACTORY",
+      "canonical_name": "factory",
+      "slug": "factory",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-AIT-POWER",
+      "canonical_name": "power",
+      "slug": "power",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-MET-HOLOGRAM",
+      "canonical_name": "hologram",
+      "slug": "hologram",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "topic_id": "PKD-MET-CONSCIOUSNES",
+      "canonical_name": "consciousness",
+      "slug": "consciousness",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-MARKET",
+      "canonical_name": "market",
+      "slug": "market",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-GOVERNMENT",
+      "canonical_name": "government",
+      "slug": "government",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "significant",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-PSY-IDENTITY",
+      "canonical_name": "identity",
+      "slug": "identity",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-AUTHORITY",
+      "canonical_name": "authority",
+      "slug": "authority",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-PSY-SELF",
+      "canonical_name": "self",
+      "slug": "self",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-MET-PERCEPTION",
+      "canonical_name": "perception",
+      "slug": "perception",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "mentioned",
+      "match_count": 4
+    },
+    {
+      "topic_id": "PKD-AIT-RESISTANCE",
+      "canonical_name": "resistance",
+      "slug": "resistance",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-SPRAYCAN",
+      "canonical_name": "spray can",
+      "slug": "spray-can",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-DYING",
+      "canonical_name": "dying",
+      "slug": "dying",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-PSY-PARANOIA",
+      "canonical_name": "paranoia",
+      "slug": "paranoia",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-SPIRIT",
+      "canonical_name": "spirit",
+      "slug": "spirit",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "topic_id": "PKD-MET-TRANSLATED",
+      "canonical_name": "translated",
+      "slug": "translated",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-CONTROL",
+      "canonical_name": "control",
+      "slug": "control",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-CHEMICAL",
+      "canonical_name": "chemical",
+      "slug": "chemical",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-LAYOUT",
+      "canonical_name": "layout",
+      "slug": "layout",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "altered_states",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-ECONOMY",
+      "canonical_name": "economy",
+      "slug": "economy",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-UNREAL",
+      "canonical_name": "unreal",
+      "slug": "unreal",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-RENT",
+      "canonical_name": "rent",
+      "slug": "rent",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-SOUL",
+      "canonical_name": "soul",
+      "slug": "soul",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-PSYCHOTIC",
+      "canonical_name": "psychotic",
+      "slug": "psychotic",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-CIRCUIT",
+      "canonical_name": "circuit",
+      "slug": "circuit",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-ACCESS",
+      "canonical_name": "access",
+      "slug": "access",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-ILLUSION",
+      "canonical_name": "illusion",
+      "slug": "illusion",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-INSANITY",
+      "canonical_name": "insanity",
+      "slug": "insanity",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-MILITARY",
+      "canonical_name": "military",
+      "slug": "military",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-WAR",
+      "canonical_name": "war",
+      "slug": "war",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-GRAVE",
+      "canonical_name": "grave",
+      "slug": "grave",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-PSY-PSYCHOSIS",
+      "canonical_name": "psychosis",
+      "slug": "psychosis",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-PROPERTY",
+      "canonical_name": "property",
+      "slug": "property",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-COIN",
+      "canonical_name": "coin",
+      "slug": "coin",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-MET-AWARENESS",
+      "canonical_name": "awareness",
+      "slug": "awareness",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-CORPORATION",
+      "canonical_name": "corporation",
+      "slug": "corporation",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "topic_id": "PKD-AIT-FASCIST",
+      "canonical_name": "fascist",
+      "slug": "fascist",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-PROGRAMMED",
+      "canonical_name": "programmed",
+      "slug": "programmed",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-ROBOT",
+      "canonical_name": "robot",
+      "slug": "robot",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-TOLL",
+      "canonical_name": "toll",
+      "slug": "toll",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-AUTOMATICFAC",
+      "canonical_name": "automatic factory",
+      "slug": "automatic-factory",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "automation_and_labor",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-LABOR",
+      "canonical_name": "labor",
+      "slug": "labor",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-LABEL",
+      "canonical_name": "label",
+      "slug": "label",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "mentioned",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-PHONY",
+      "canonical_name": "phony",
+      "slug": "phony",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-FUNERAL",
+      "canonical_name": "funeral",
+      "slug": "funeral",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-TRANSISTOR",
+      "canonical_name": "transistor",
+      "slug": "transistor",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-AMNESIA",
+      "canonical_name": "amnesia",
+      "slug": "amnesia",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-AUTOMATON",
+      "canonical_name": "automaton",
+      "slug": "automaton",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-COMPASSION",
+      "canonical_name": "compassion",
+      "slug": "compassion",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-ADVERTISING",
+      "canonical_name": "advertising",
+      "slug": "advertising",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-REALWORLD",
+      "canonical_name": "real world",
+      "slug": "real-world",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-PSY-EGO",
+      "canonical_name": "ego",
+      "slug": "ego",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-GENUINE",
+      "canonical_name": "genuine",
+      "slug": "genuine",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-PAYMENT",
+      "canonical_name": "payment",
+      "slug": "payment",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-AIT-MECHANISM",
+      "canonical_name": "mechanism",
+      "slug": "mechanism",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "core_concepts",
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "topic_id": "PKD-MET-DECAY",
+      "canonical_name": "decay",
+      "slug": "decay",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ]
+}

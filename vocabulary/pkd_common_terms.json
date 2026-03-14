@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "name": "Common PKD Terms Supplement",
+    "description": "High-frequency terms from PKD fiction that the formal controlled vocabulary misses. Single-word and short-phrase terms that appear frequently in the corpus.",
+    "version": "0.1.0"
+  },
+  "terms": {
+    "ai_core": {
+      "family": "ai_automation",
+      "subfamily": "core_concepts",
+      "terms": [
+        "robot", "machine", "computer", "automaton", "cyborg",
+        "artificial intelligence", "programmed", "mechanism",
+        "electronic", "circuit", "transistor", "servo"
+      ]
+    },
+    "android_identity": {
+      "family": "ai_automation",
+      "subfamily": "android_identity",
+      "terms": [
+        "human or machine", "real human", "fake human",
+        "not human", "truly human", "become human",
+        "pass for human", "indistinguishable", "Turing test",
+        "Voigt-Kampff", "empathy test", "bounty hunter",
+        "electric animal", "electric sheep", "artificial animal"
+      ]
+    },
+    "reality_perception": {
+      "family": "metaphysics",
+      "subfamily": "reality",
+      "terms": [
+        "reality", "illusion", "hallucination", "perception",
+        "simulation", "hologram", "fake", "counterfeit",
+        "authentic", "genuine", "ersatz", "phony",
+        "real world", "unreal", "half-life",
+        "entropy", "decay", "regression", "kipple",
+        "ubik", "Ubik", "spray can"
+      ]
+    },
+    "consciousness": {
+      "family": "metaphysics",
+      "subfamily": "consciousness",
+      "terms": [
+        "consciousness", "awareness", "sentience", "alive",
+        "soul", "spirit", "divine", "God", "Logos",
+        "Zebra", "Valis", "VALIS", "Sophia", "Platonism",
+        "gnostic", "gnosis", "Gnosticism",
+        "anamnesis", "two-source cosmogony",
+        "Black Iron Prison", "living information"
+      ]
+    },
+    "psychology_core": {
+      "family": "psychology",
+      "subfamily": "clinical_descriptive",
+      "terms": [
+        "paranoia", "paranoid", "schizophrenia", "schizophrenic",
+        "psychosis", "psychotic", "madness", "insanity", "insane",
+        "delusion", "delusional", "anxiety", "fear",
+        "empathy", "compassion", "sympathy", "kindness",
+        "identity", "self", "ego", "persona",
+        "memory", "amnesia", "remember", "forgot"
+      ]
+    },
+    "capitalism_power": {
+      "family": "ai_automation",
+      "subfamily": "economic_systems",
+      "terms": [
+        "money", "payment", "pay", "coin", "currency",
+        "debt", "credit", "capitalism", "corporate",
+        "corporation", "profit", "consumer", "commodity",
+        "advertising", "market", "economy",
+        "landlord", "rent", "tenant", "property",
+        "door", "locked", "access", "toll",
+        "wage", "labor", "worker", "factory",
+        "bureaucracy", "bureaucrat", "government",
+        "authority", "power", "control", "domination",
+        "surveillance", "police", "military", "war"
+      ]
+    },
+    "drug_perception": {
+      "family": "metaphysics",
+      "subfamily": "altered_states",
+      "terms": [
+        "drug", "drugs", "substance", "chemical",
+        "Can-D", "Chew-Z", "Palmer Eldritch",
+        "translation", "translated", "layout",
+        "precognition", "precog", "psychic",
+        "telepathy", "telepath", "psi"
+      ]
+    },
+    "death_entropy": {
+      "family": "metaphysics",
+      "subfamily": "mortality",
+      "terms": [
+        "death", "dead", "dying", "mortal",
+        "immortal", "afterlife", "resurrection",
+        "cold-pac", "half-life", "cryonic",
+        "grave", "tomb", "funeral"
+      ]
+    },
+    "political": {
+      "family": "ai_automation",
+      "subfamily": "political_systems",
+      "terms": [
+        "totalitarian", "fascist", "fascism",
+        "tyranny", "oppression", "freedom",
+        "rebellion", "revolt", "revolution",
+        "resistance", "underground", "fugitive",
+        "state", "empire", "colony"
+      ]
+    }
+  }
+}

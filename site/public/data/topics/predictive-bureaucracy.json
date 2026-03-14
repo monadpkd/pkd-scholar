@@ -1,0 +1,27 @@
+{
+  "topic_id": "PKD-AIT-PREDICTIVEBU",
+  "canonical_name": "Predictive Bureaucrat",
+  "slug": "predictive-bureaucracy",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "machine_role",
+  "definition": "Machines acting as officials, inspectors, or administrators via prediction",
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 0,
+  "aliases": [
+    {
+      "alias": "Minority Report precogs",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "Paycheck corporate machine",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "war prediction computers",
+      "alias_type": "related_term"
+    }
+  ],
+  "matched_works": [],
+  "matched_segments": []
+}

@@ -1,0 +1,60 @@
+{
+  "topic_id": "PKD-AIT-BUREAUCRAT",
+  "canonical_name": "bureaucrat",
+  "slug": "bureaucrat",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "economic_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 2,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1969-UBIK",
+      "title": "Ubik",
+      "slug": "ubik",
+      "year_published": 1969,
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-UBIK-P0031",
+      "match_type": "exact_text",
+      "matched_text": "bureaucrat",
+      "context_window": "... \nwhich-\u201d \n     Pat said, \u201cYou\u2019re a little, debt-stricken, ineffective \nbureaucrat who can\u2019t even scrape together enough coins to \npay his door to let him...",
+      "seg_title": "Ubik \u2014 Page 31",
+      "segment_type": "page",
+      "position": 31,
+      "page_start": 31,
+      "page_end": 31,
+      "work_title": "Ubik",
+      "work_slug": "ubik",
+      "work_id": "PKD-WRK-1969-UBIK"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0946",
+      "match_type": "exact_text",
+      "matched_text": "bureaucrat",
+      "context_window": "... hero of The Man in the High Castle (1962). Tagomi\nis a midlevel Japanese bureaucrat who, at the end of the novel, \"sees through\"\nto something resembling our...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 946",
+      "segment_type": "page",
+      "position": 946,
+      "page_start": 946,
+      "page_end": 946,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

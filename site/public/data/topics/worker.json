@@ -1,0 +1,66 @@
+{
+  "topic_id": "PKD-AIT-WORKER",
+  "canonical_name": "worker",
+  "slug": "worker",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "economic_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 3,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 3
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0121",
+      "match_type": "exact_text",
+      "matched_text": "worker",
+      "context_window": " I wasn't married; I wasn't living where I\nam; I was evidently a migratory worker south of the border. I deduce this\n",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 121",
+      "segment_type": "page",
+      "position": 121,
+      "page_start": 121,
+      "page_end": 121,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0856",
+      "match_type": "exact_text",
+      "matched_text": "worker",
+      "context_window": "... experience.\nHence when I read Luke I recognize Jesus as a miracle worker, a guru, a\nmagician. He is the God of change.\n***\n[55:D-115] This means...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 856",
+      "segment_type": "page",
+      "position": 856,
+      "page_start": 856,
+      "page_end": 856,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0914",
+      "match_type": "exact_text",
+      "matched_text": "Worker",
+      "context_window": "... The Catholic Agitator is the newspaper published by the Los Angeles\nWorker Community, a politically progressive, service-oriented group founded\nin...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 914",
+      "segment_type": "page",
+      "position": 914,
+      "page_start": 914,
+      "page_end": 914,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

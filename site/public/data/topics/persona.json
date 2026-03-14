@@ -1,0 +1,38 @@
+{
+  "topic_id": "PKD-PSY-PERSONA",
+  "canonical_name": "persona",
+  "slug": "persona",
+  "topic_family": "psychology",
+  "topic_subfamily": "clinical_descriptive",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 1,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P1016",
+      "match_type": "exact_text",
+      "matched_text": "persona",
+      "context_window": "... determined to\nmove forward against overwhelming odds. As Dick's public persona has\ngrown following his death\u2014a persona based in part on his life and in...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 1016",
+      "segment_type": "page",
+      "position": 1016,
+      "page_start": 1016,
+      "page_end": 1016,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

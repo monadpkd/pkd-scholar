@@ -1,0 +1,60 @@
+{
+  "topic_id": "PKD-AIT-SERVO",
+  "canonical_name": "servo",
+  "slug": "servo",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "core_concepts",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 2,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1969-UBIK",
+      "title": "Ubik",
+      "slug": "ubik",
+      "year_published": 1969,
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "year_published": 1978,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-UBIK-P0079",
+      "match_type": "exact_text",
+      "matched_text": "servo",
+      "context_window": "... ship, slowing radically, prepared by means of its \nvarious homeostatic servo-assist systems to land. \n     \u201cAnd in addition,\u201d Joe said, \u201cI have to...",
+      "seg_title": "Ubik \u2014 Page 79",
+      "segment_type": "page",
+      "position": 79,
+      "page_start": 79,
+      "page_end": 79,
+      "work_title": "Ubik",
+      "work_slug": "ubik",
+      "work_id": "PKD-WRK-1969-UBIK"
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0004",
+      "match_type": "exact_text",
+      "matched_text": "servo",
+      "context_window": "... does not really exist and that the pirates are\nanimated by motors and servo-assist mechanisms, relays and electronic circuits. So no deception...",
+      "seg_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 4",
+      "segment_type": "page",
+      "position": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "work_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "work_slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE"
+    }
+  ]
+}

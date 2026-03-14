@@ -1,0 +1,141 @@
+{
+  "total_works": 8,
+  "total_segments": 2107,
+  "total_words": 831417,
+  "total_topics": 281,
+  "total_topic_matches": 9366,
+  "extraction_status": {
+    "extracted": 7,
+    "ocr_needed": 1
+  },
+  "work_types": {
+    "essay": 4,
+    "exegesis": 1,
+    "novel": 3
+  },
+  "segment_types": {
+    "page": 2107
+  },
+  "top_topics": [
+    {
+      "topic_id": "PKD-MET-GOD",
+      "canonical_name": "God",
+      "slug": "god",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "match_count": 867
+    },
+    {
+      "topic_id": "PKD-MET-REALITY",
+      "canonical_name": "reality",
+      "slug": "reality",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "match_count": 532
+    },
+    {
+      "topic_id": "PKD-MET-DEATH",
+      "canonical_name": "death",
+      "slug": "death",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "match_count": 363
+    },
+    {
+      "topic_id": "PKD-MET-VALIS",
+      "canonical_name": "Valis",
+      "slug": "valis",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "match_count": 343
+    },
+    {
+      "topic_id": "PKD-PSY-SELF",
+      "canonical_name": "self",
+      "slug": "self",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "match_count": 302
+    },
+    {
+      "topic_id": "PKD-MET-DEAD",
+      "canonical_name": "dead",
+      "slug": "dead",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "mortality",
+      "match_count": 297
+    },
+    {
+      "topic_id": "PKD-AIT-POWER",
+      "canonical_name": "power",
+      "slug": "power",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "match_count": 285
+    },
+    {
+      "topic_id": "PKD-MET-UBIK",
+      "canonical_name": "ubik",
+      "slug": "ubik",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "reality",
+      "match_count": 236
+    },
+    {
+      "topic_id": "PKD-MET-DIVINE",
+      "canonical_name": "divine",
+      "slug": "divine",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "match_count": 234
+    },
+    {
+      "topic_id": "PKD-MET-ALIVE",
+      "canonical_name": "alive",
+      "slug": "alive",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "match_count": 220
+    },
+    {
+      "topic_id": "PKD-MET-SPIRIT",
+      "canonical_name": "spirit",
+      "slug": "spirit",
+      "topic_family": "metaphysics",
+      "topic_subfamily": "consciousness",
+      "match_count": 216
+    },
+    {
+      "topic_id": "PKD-PSY-REMEMBER",
+      "canonical_name": "remember",
+      "slug": "remember",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "match_count": 202
+    },
+    {
+      "topic_id": "PKD-AIT-STATE",
+      "canonical_name": "state",
+      "slug": "state",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "political_systems",
+      "match_count": 196
+    },
+    {
+      "topic_id": "PKD-AIT-DOOR",
+      "canonical_name": "door",
+      "slug": "door",
+      "topic_family": "ai_automation",
+      "topic_subfamily": "economic_systems",
+      "match_count": 169
+    },
+    {
+      "topic_id": "PKD-PSY-MEMORY",
+      "canonical_name": "memory",
+      "slug": "memory",
+      "topic_family": "psychology",
+      "topic_subfamily": "clinical_descriptive",
+      "match_count": 167
+    }
+  ]
+}

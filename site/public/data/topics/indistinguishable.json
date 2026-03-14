@@ -1,0 +1,80 @@
+{
+  "topic_id": "PKD-AIT-INDISTINGUIS",
+  "canonical_name": "indistinguishable",
+  "slug": "indistinguishable",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "android_identity",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 4,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 4
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0293",
+      "match_type": "exact_text",
+      "matched_text": "indistinguishable",
+      "context_window": "... of \u278a are forever ubiquitously\nreaching us subliminally imbedded in and indistinguishable from info in \u278c\nderiving out of \u278b.\nWhat must be remembered is that the...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 293",
+      "segment_type": "page",
+      "position": 293,
+      "page_start": 293,
+      "page_end": 293,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0453",
+      "match_type": "exact_text",
+      "matched_text": "indistinguishable",
+      "context_window": "... be\ntold from it. Mimicking, mimesis, playing dead, to blend in: yes\u2014\nindistinguishable from world. No way our senses could do a set-ground\n",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 453",
+      "segment_type": "page",
+      "position": 453,
+      "page_start": 453,
+      "page_end": 453,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0454",
+      "match_type": "exact_text",
+      "matched_text": "indistinguishable",
+      "context_window": "... It is not a thing (matter); but when at rest\nappears to our senses indistinguishable from matter, as if it slows down. It\ndeliberately slows itself down to...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 454",
+      "segment_type": "page",
+      "position": 454,
+      "page_start": 454,
+      "page_end": 454,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0628",
+      "match_type": "exact_text",
+      "matched_text": "indistinguishable",
+      "context_window": "... anthropomorphic figure. In the final vision, Christianity becomes\nindistinguishable from Brahmanism, because in this encounter with the\ncosmic Christ the...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 628",
+      "segment_type": "page",
+      "position": 628,
+      "page_start": 628,
+      "page_end": 628,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}

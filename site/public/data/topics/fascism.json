@@ -1,0 +1,60 @@
+{
+  "topic_id": "PKD-AIT-FASCISM",
+  "canonical_name": "fascism",
+  "slug": "fascism",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "political_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 2,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "year_published": 1978,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0434",
+      "match_type": "exact_text",
+      "matched_text": "Fascism",
+      "context_window": "... i.e., to the Gestalt. Fakes are\ndiscussed. Alternate universes exist. Fascism is the topic, and a book is\nreality, which seems to have some connection...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 434",
+      "segment_type": "page",
+      "position": 434,
+      "page_start": 434,
+      "page_end": 434,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0001",
+      "match_type": "exact_text",
+      "matched_text": "fascism",
+      "context_window": "... whirling\naround in one of the giant teacups while discussing the rise of fascism with Norman Spinrad... an old\nfriend of mine who writes excellent science...",
+      "seg_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 1",
+      "segment_type": "page",
+      "position": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "work_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "work_slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "topic_id": "PKD-PSY-SYMPATHY",
+  "canonical_name": "sympathy",
+  "slug": "sympathy",
+  "topic_family": "psychology",
+  "topic_subfamily": "clinical_descriptive",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 7,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1981-VALISTRI",
+      "title": "The VALIS Trilogy",
+      "slug": "the-valis-trilogy",
+      "year_published": 1981,
+      "relevance": "significant",
+      "match_count": 5
+    },
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 2
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0599",
+      "match_type": "exact_text",
+      "matched_text": "sympathy",
+      "context_window": "... torture is not\njustified even by the picture produced. So my emotional sympathy\u2014agape\u2014\noutweighs my aesthetic response, however profound the latter. This...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 599",
+      "segment_type": "page",
+      "position": 599,
+      "page_start": 599,
+      "page_end": 599,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P1013",
+      "match_type": "exact_text",
+      "matched_text": "sympathy",
+      "context_window": "... his lament by guiding him to Boehme, in whom\nhe discovered a secret sympathy across time. However, this whole episode is\ncomplicated by the appearance...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 1013",
+      "segment_type": "page",
+      "position": 1013,
+      "page_start": 1013,
+      "page_end": 1013,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0068",
+      "match_type": "exact_text",
+      "matched_text": "sympathy",
+      "context_window": "... Everyone she meets?\u201d\n\u201cYes.\u201d\n\u201cOkay, her life will differ; she\u2019ll get more sympathy. She\u2019ll be better off.\u201d\nWith difficulty, Fat said, \u201cOne time she told...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 68",
+      "segment_type": "page",
+      "position": 68,
+      "page_start": 68,
+      "page_end": 68,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0388",
+      "match_type": "exact_text",
+      "matched_text": "sympathy",
+      "context_window": "... not. Bishop Archer gazed at her attentively and\nwith a great deal of sympathy. I wondered if he intended to suggest a laying\non of hands. They do that...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 388",
+      "segment_type": "page",
+      "position": 388,
+      "page_start": 388,
+      "page_end": 388,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0389",
+      "match_type": "exact_text",
+      "matched_text": "sympathy",
+      "context_window": "... us eating; however,\nBishop Archer had not stopped gazing at Kirsten with sympathy and concern.\nIt came to me later, but not at the time, that he sensed...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 389",
+      "segment_type": "page",
+      "position": 389,
+      "page_start": 389,
+      "page_end": 389,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0427",
+      "match_type": "exact_text",
+      "matched_text": "sympathy",
+      "context_window": "... worried him. Anyhow, due to Jeff\u2019s suicide, Tim had\nplenty of public sympathy. He had always had that, but now, because of the\ntragedy in his personal...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 427",
+      "segment_type": "page",
+      "position": 427,
+      "page_start": 427,
+      "page_end": 427,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0529",
+      "match_type": "exact_text",
+      "matched_text": "sympathy",
+      "context_window": "... something itself.\nStill, upon the lessening of my original anger, I felt sympathy toward Bill\nbecause I understood why he had gone this route; he had not...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 529",
+      "segment_type": "page",
+      "position": 529,
+      "page_start": 529,
+      "page_end": 529,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    }
+  ]
+}

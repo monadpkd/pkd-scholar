@@ -1,0 +1,74 @@
+{
+  "topic_id": "PKD-PSY-TOPICS",
+  "canonical_name": "topics",
+  "slug": "topics",
+  "topic_family": "psychology",
+  "topic_subfamily": "clinical_descriptive",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 3,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE",
+      "title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "year_published": 1978,
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0008",
+      "match_type": "exact_text",
+      "matched_text": "topics",
+      "context_window": "... and insights that Dick committed to paper between 1974 and\n1982. The topics\u2014apart from suffering, pity, the nature of the universe, and\nthe essence...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 8",
+      "segment_type": "page",
+      "position": 8,
+      "page_start": 8,
+      "page_end": 8,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0001",
+      "match_type": "exact_text",
+      "matched_text": "topics",
+      "context_window": "... fascinate me, and that I write about\nthem all the time. The two basic topics which fascinate me are \"What is reality?\" and \"What constitutes\nthe...",
+      "seg_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 1",
+      "segment_type": "page",
+      "position": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "work_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "work_slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE"
+    },
+    {
+      "seg_id": "PKD-SEG-BUILDUNIVERSE-P0004",
+      "match_type": "exact_text",
+      "matched_text": "topics",
+      "context_window": "... humans\u00b2as fake as\nthe data pressing at them from all sides. My two topics are really one topic; they unite at this point.\nFake realities will...",
+      "seg_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later \u2014 Page 4",
+      "segment_type": "page",
+      "position": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "work_title": "How to Build a Universe That Doesn't Fall Apart Two Days Later",
+      "work_slug": "how-to-build-a-universe-that-doesnt-fall-apart-two-days-later",
+      "work_id": "PKD-WRK-1978-BUILDUNIVERSE"
+    }
+  ]
+}

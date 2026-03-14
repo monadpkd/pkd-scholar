@@ -1,0 +1,27 @@
+{
+  "topic_id": "PKD-AIT-REALITYINFRA",
+  "canonical_name": "Artificial Reality Infrastructure",
+  "slug": "reality-infrastructure",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "machine_role",
+  "definition": "Machines sustaining simulated or unstable worlds",
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 0,
+  "aliases": [
+    {
+      "alias": "Maze of Death simulation",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "Palmer Eldritch drug worlds",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "Ubik half-life",
+      "alias_type": "related_term"
+    }
+  ],
+  "matched_works": [],
+  "matched_segments": []
+}

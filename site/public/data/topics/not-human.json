@@ -1,0 +1,88 @@
+{
+  "topic_id": "PKD-AIT-NOTHUMAN",
+  "canonical_name": "not human",
+  "slug": "not-human",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "android_identity",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 4,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 3
+    },
+    {
+      "work_id": "PKD-WRK-1981-VALISTRI",
+      "title": "The VALIS Trilogy",
+      "slug": "the-valis-trilogy",
+      "year_published": 1981,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0259",
+      "match_type": "exact_text",
+      "matched_text": "not human",
+      "context_window": "... all and view themselves as microforms\nof God, in which case the goal is not human freedom, but recollection that\nthey are incarnations of God, and, having...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 259",
+      "segment_type": "page",
+      "position": 259,
+      "page_start": 259,
+      "page_end": 259,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0283",
+      "match_type": "exact_text",
+      "matched_text": "not human",
+      "context_window": "... its blood, so to speak.\nI must turn here to the Logos doctrine.\nIt is not human but also not mechanical nor artificial\u2014it is dispassionate\ninsect-like\u2014a...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 283",
+      "segment_type": "page",
+      "position": 283,
+      "page_start": 283,
+      "page_end": 283,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0775",
+      "match_type": "exact_text",
+      "matched_text": "not human",
+      "context_window": "... mental operation; it takes both brain\nhemispheres. A two-souled human is not human. He is god-like; he has\nbecome divine and in fact immortal.\nThis, then,...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 775",
+      "segment_type": "page",
+      "position": 775,
+      "page_start": 775,
+      "page_end": 775,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0317",
+      "match_type": "exact_text",
+      "matched_text": "Not human",
+      "context_window": "... high speed. Urgency. And most of all\u2014a\npresence. An uncanny presence. Not human. Maybe it was an extraterrestrial,\nthe race I\u2019m really a part of. From my...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 317",
+      "segment_type": "page",
+      "position": 317,
+      "page_start": 317,
+      "page_end": 317,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    }
+  ]
+}

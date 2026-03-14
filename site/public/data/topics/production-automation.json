@@ -1,0 +1,23 @@
+{
+  "topic_id": "PKD-AIT-PRODUCTIONAU",
+  "canonical_name": "Autonomous Production System",
+  "slug": "production-automation",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "machine_role",
+  "definition": "Self-perpetuating factories and production systems",
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 0,
+  "aliases": [
+    {
+      "alias": "Autofac network",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "self-replicating weapons (Second Variety)",
+      "alias_type": "related_term"
+    }
+  ],
+  "matched_works": [],
+  "matched_segments": []
+}

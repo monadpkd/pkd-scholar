@@ -1,0 +1,60 @@
+{
+  "topic_id": "PKD-AIT-TRANSISTOR",
+  "canonical_name": "transistor",
+  "slug": "transistor",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "core_concepts",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 2,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1965-5NOVELS",
+      "title": "Five Great Novels (incl. Three Stigmata)",
+      "slug": "five-great-novels-incl-three-stigmata",
+      "year_published": 1965,
+      "relevance": "peripheral",
+      "match_count": 1
+    },
+    {
+      "work_id": "PKD-WRK-1972-ANDROHUM",
+      "title": "The Android and the Human",
+      "slug": "the-android-and-the-human",
+      "year_published": 1972,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0056",
+      "match_type": "exact_text",
+      "matched_text": "transistor",
+      "context_window": "... \"I saw in the L.A. _Times_ the other day, they're giving\naway a free transistor radio to those who would harm Freck\nmost successfully.\"\n\"I'll trade you a...",
+      "seg_title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 56",
+      "segment_type": "page",
+      "position": 56,
+      "page_start": 56,
+      "page_end": 56,
+      "work_title": "Five Great Novels (incl. Three Stigmata)",
+      "work_slug": "five-great-novels-incl-three-stigmata",
+      "work_id": "PKD-WRK-1965-5NOVELS"
+    },
+    {
+      "seg_id": "PKD-SEG-ANDROHUM-P0011",
+      "match_type": "exact_text",
+      "matched_text": "transistor",
+      "context_window": "... \u00a0size\t\r \u00a0and\t\r \u00a0design.\t\r \u00a0One\t\r \u00a0was\t\r \u00a0a\t\r \u00a0sophisticated\t\r \u00a0pocket\t\r \u00a0transistor\t\r \u00a0\nbuilt\t\r \u00a0by\t\r \u00a0a\t\r \u00a0PhD\t\r \u00a0in\t\r \u00a0engineering,\t\r \u00a0another\t\r \u00a0the\t\r...",
+      "seg_title": "The Android and the Human \u2014 Page 11",
+      "segment_type": "page",
+      "position": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "work_title": "The Android and the Human",
+      "work_slug": "the-android-and-the-human",
+      "work_id": "PKD-WRK-1972-ANDROHUM"
+    }
+  ]
+}

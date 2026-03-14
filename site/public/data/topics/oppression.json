@@ -1,0 +1,102 @@
+{
+  "topic_id": "PKD-AIT-OPPRESSION",
+  "canonical_name": "oppression",
+  "slug": "oppression",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "political_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 5,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1981-VALISTRI",
+      "title": "The VALIS Trilogy",
+      "slug": "the-valis-trilogy",
+      "year_published": 1981,
+      "relevance": "significant",
+      "match_count": 3
+    },
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "mentioned",
+      "match_count": 2
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P0674",
+      "match_type": "exact_text",
+      "matched_text": "oppression",
+      "context_window": "... links the theophany of\n3-74 to 11-17-80: in both cases my sense of evil, oppression and suffering\nwas undermined drastically by an awareness of divine...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 674",
+      "segment_type": "page",
+      "position": 674,
+      "page_start": 674,
+      "page_end": 674,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P1000",
+      "match_type": "exact_text",
+      "matched_text": "oppression",
+      "context_window": "implies or even requires a subversive attitude: as long as persecution and\noppression are possible, the true church exists within the resistance to...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 1000",
+      "segment_type": "page",
+      "position": 1000,
+      "page_start": 1000,
+      "page_end": 1000,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0134",
+      "match_type": "exact_text",
+      "matched_text": "oppression",
+      "context_window": " hand on Fat\u2019s shoulder. \u201cIt\u2019s over,\u201d I said. \u201cHe told me that. The\nage of oppression ended in August 1974; now the age of sorrow begins to\nend. Okay?\u201d\n\u201cOkay,\u201d...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 134",
+      "segment_type": "page",
+      "position": 134,
+      "page_start": 134,
+      "page_end": 134,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0157",
+      "match_type": "exact_text",
+      "matched_text": "oppression",
+      "context_window": " those leaders who protect and shelter will live; the others\nwill die. The oppression lifted four years ago, and it will for a little while\nreturn. Be patient...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 157",
+      "segment_type": "page",
+      "position": 157,
+      "page_start": 157,
+      "page_end": 157,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0305",
+      "match_type": "exact_text",
+      "matched_text": "oppression",
+      "context_window": "... what you do. Listen to me. Stop it!\u201d\nHe said, \u201cI have come to lift their oppression.\u201d\n\u201cYou are impaired. I know that; I know what happened in the Godhead,...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 305",
+      "segment_type": "page",
+      "position": 305,
+      "page_start": 305,
+      "page_end": 305,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    }
+  ]
+}

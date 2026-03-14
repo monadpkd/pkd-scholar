@@ -1,0 +1,27 @@
+{
+  "topic_id": "PKD-AIT-ECONOMICGATE",
+  "canonical_name": "Economic Gatekeeper",
+  "slug": "economic-gatekeeper",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "machine_role",
+  "definition": "Machines that enforce payment, property rights, or market logic",
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 0,
+  "aliases": [
+    {
+      "alias": "autofac network",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "autonomous salesman (Sales Pitch)",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "coin-operated door (Ubik)",
+      "alias_type": "related_term"
+    }
+  ],
+  "matched_works": [],
+  "matched_segments": []
+}

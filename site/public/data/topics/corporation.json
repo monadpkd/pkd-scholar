@@ -1,0 +1,88 @@
+{
+  "topic_id": "PKD-AIT-CORPORATION",
+  "canonical_name": "corporation",
+  "slug": "corporation",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "economic_systems",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 4,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1965-5NOVELS",
+      "title": "Five Great Novels (incl. Three Stigmata)",
+      "slug": "five-great-novels-incl-three-stigmata",
+      "year_published": 1965,
+      "relevance": "mentioned",
+      "match_count": 2
+    },
+    {
+      "work_id": "PKD-WRK-1981-VALISTRI",
+      "title": "The VALIS Trilogy",
+      "slug": "the-valis-trilogy",
+      "year_published": 1981,
+      "relevance": "mentioned",
+      "match_count": 2
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0163",
+      "match_type": "exact_text",
+      "matched_text": "Corporation",
+      "context_window": " out.\n\"Hi. What's happening?\"\nArctor said, \"I drove by the Maylar Microdot Corporation\nBuilding.\"\n\"You're shitting me.\"\n\"And,\" Arctor said, \"they were taking an...",
+      "seg_title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 163",
+      "segment_type": "page",
+      "position": 163,
+      "page_start": 163,
+      "page_end": 163,
+      "work_title": "Five Great Novels (incl. Three Stigmata)",
+      "work_slug": "five-great-novels-incl-three-stigmata",
+      "work_id": "PKD-WRK-1965-5NOVELS"
+    },
+    {
+      "seg_id": "PKD-SEG-5NOVELS-P0164",
+      "match_type": "exact_text",
+      "matched_text": "Corporation",
+      "context_window": "... in Orange County,\" Arctor said.\n\"How large is the Maylar Microdot Corporation building?\"\n\"About an inch high,\" Arctor said.\n\"How much would you...",
+      "seg_title": "Five Great Novels (incl. Three Stigmata) \u2014 Page 164",
+      "segment_type": "page",
+      "position": 164,
+      "page_start": 164,
+      "page_end": 164,
+      "work_title": "Five Great Novels (incl. Three Stigmata)",
+      "work_slug": "five-great-novels-incl-three-stigmata",
+      "work_id": "PKD-WRK-1965-5NOVELS"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0005",
+      "match_type": "exact_text",
+      "matched_text": "Corporation",
+      "context_window": " Durant. By permission of Simon & Schuster, a Division of Gulf\nand Western Corporation. Excerpt from A Scanner Darkly by Philip K. Dick.\nCopyright \u00a9 1977 by...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 5",
+      "segment_type": "page",
+      "position": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    },
+    {
+      "seg_id": "PKD-SEG-VALISTRI-P0543",
+      "match_type": "exact_text",
+      "matched_text": "Corporation",
+      "context_window": "... The Golden Man, edited by Mark Hurst, Berkley Publishing Corporation,\nNY., 1980.\n[back]\n***\n1. (Var. plenipotentiary)\n[back]\n***\n2. Nommo is...",
+      "seg_title": "The VALIS Trilogy \u2014 Page 543",
+      "segment_type": "page",
+      "position": 543,
+      "page_start": 543,
+      "page_end": 543,
+      "work_title": "The VALIS Trilogy",
+      "work_slug": "the-valis-trilogy",
+      "work_id": "PKD-WRK-1981-VALISTRI"
+    }
+  ]
+}

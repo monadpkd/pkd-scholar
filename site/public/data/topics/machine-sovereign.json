@@ -1,0 +1,23 @@
+{
+  "topic_id": "PKD-AIT-MACHINESOVER",
+  "canonical_name": "Machine Sovereign",
+  "slug": "machine-sovereign",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "machine_role",
+  "definition": "AI that rules or demands worship",
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 0,
+  "aliases": [
+    {
+      "alias": "Defenders robots",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "The Great C",
+      "alias_type": "related_term"
+    }
+  ],
+  "matched_works": [],
+  "matched_segments": []
+}

@@ -1,0 +1,27 @@
+{
+  "topic_id": "PKD-AIT-DIAGNOSTICAU",
+  "canonical_name": "Diagnostic Authority",
+  "slug": "diagnostic-authority",
+  "topic_family": "ai_automation",
+  "topic_subfamily": "machine_role",
+  "definition": "Machines that judge humanity or mental state",
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 0,
+  "aliases": [
+    {
+      "alias": "Electric Ant perception tape",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "Variable Man computer",
+      "alias_type": "related_term"
+    },
+    {
+      "alias": "Voigt-Kampff test",
+      "alias_type": "related_term"
+    }
+  ],
+  "matched_works": [],
+  "matched_segments": []
+}

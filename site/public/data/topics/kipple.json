@@ -1,0 +1,38 @@
+{
+  "topic_id": "PKD-MET-KIPPLE",
+  "canonical_name": "kipple",
+  "slug": "kipple",
+  "topic_family": "metaphysics",
+  "topic_subfamily": "reality",
+  "definition": null,
+  "pkd_relevance": null,
+  "status": "provisional",
+  "match_count": 1,
+  "aliases": [],
+  "matched_works": [
+    {
+      "work_id": "PKD-WRK-1974-EXEGESIS",
+      "title": "The Exegesis of Philip K. Dick",
+      "slug": "the-exegesis-of-philip-k-dick",
+      "year_published": 1974,
+      "relevance": "peripheral",
+      "match_count": 1
+    }
+  ],
+  "matched_segments": [
+    {
+      "seg_id": "PKD-SEG-EXEGESIS-P1030",
+      "match_type": "exact_text",
+      "matched_text": "kipple",
+      "context_window": "... we experience\nas time and progress as a mounting pile of wreckage (or kipple). Dick also\nanticipates the contemporary return to Christianity found in...",
+      "seg_title": "The Exegesis of Philip K. Dick \u2014 Page 1030",
+      "segment_type": "page",
+      "position": 1030,
+      "page_start": 1030,
+      "page_end": 1030,
+      "work_title": "The Exegesis of Philip K. Dick",
+      "work_slug": "the-exegesis-of-philip-k-dick",
+      "work_id": "PKD-WRK-1974-EXEGESIS"
+    }
+  ]
+}
