@@ -17,6 +17,9 @@ export default function Layout() {
             <Link to="/">PKD Scholar</Link>
           </div>
           <nav className="header-nav">
+            <Link to="/studies" className={isActive('/studies')}>
+              Studies
+            </Link>
             <Link to="/" className={location.pathname === '/' ? 'active' : ''}>
               Corpus
             </Link>

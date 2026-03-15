@@ -6,6 +6,8 @@ import SegmentDetail from './pages/SegmentDetail';
 import Search from './pages/Search';
 import Topics from './pages/Topics';
 import TopicDetail from './pages/TopicDetail';
+import Studies from './pages/Studies';
+import StudyDetail from './pages/StudyDetail';
 
 export default function App() {
   return (
@@ -13,6 +15,8 @@ export default function App() {
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<Dashboard />} />
+          <Route path="/studies" element={<Studies />} />
+          <Route path="/studies/:slug" element={<StudyDetail />} />
           <Route path="/works/:slug" element={<WorkDetail />} />
           <Route path="/segments/:segId" element={<SegmentDetail />} />
           <Route path="/search" element={<Search />} />
